@@ -1,6 +1,8 @@
 # Principios de informática
 
-## Estructura
+**Nota:** El entorno virtual del sitio se encuentra en [Mediación virtual](https://mv1.mediacionvirtual.ucr.ac.cr/course/view.php?id=25319) donde se encuentran otros materiales y asignaciones del curso.
+
+## Estructura del proyecto
 
 - `doc`: Página web del material.
 - `src`: Código fuente elaborado en clases.
