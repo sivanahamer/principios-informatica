@@ -10,7 +10,7 @@ Debajo viene el cronograma preliminar de los temas que puede actualizarse durant
 
 | Semanas | Tema | Videos | Presentación | Ejercicios |  Código |
 | :------------- | :-------- | :--------: | :--------: |  :--------: | :--------: |
-1 | Fundamentos de la programación | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-video" aria-hidden="true"></span></a> | <a href="SLIDE"><span class="fa fa-solid fa-presentation-screen" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-pencil" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-code" aria-hidden="true"></span></a> |
+1 | Fundamentos de la programación | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-video" aria-hidden="true"></span></a> | <a href="SLIDE"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-regular fa-pencil" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-code" aria-hidden="true"></span></a> |
 2 | Sistemas numéricos y representación de datos |
 2 | Tipos de datos |
 2 | Definición y utilización de variables |
