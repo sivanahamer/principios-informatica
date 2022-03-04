@@ -8,19 +8,9 @@ Es un curso básico de programación para estudiantes del área de ingeniería y
 
 Debajo viene el cronograma preliminar de los temas que puede actualizarse durante el desarrollo del semestre. Cada enlace adjunta los materiales asociados.
 
-<a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}"
-    class="btn btn-social-icon btn-facebook" title="Share on Facebook">
-    <span class="fab fa-fw fa-facebook" aria-hidden="true"></span>
-    <span class="sr-only">Facebook</span>
-</a>
-
 | Semanas | Tema | Videos | Presentación | Ejercicios |  Código |
 | :------------- | :-------- | :-------- | :-------- |  :-------- | :-------- |
-1 | Fundamentos de la programación |     <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}"
-      class="btn btn-social-icon btn-facebook" title="Share on Facebook">
-      <span class="fab fa-fw fa-facebook" aria-hidden="true"></span>
-      <span class="sr-only">Facebook</span>
-    </a>
+1 | Fundamentos de la programación | <a href="ALGO"><span class="fab fa-fw fa-facebook" aria-hidden="true"></span></a>
 2 | Sistemas numéricos y representación de datos |
 2 | Tipos de datos |
 2 | Definición y utilización de variables |
