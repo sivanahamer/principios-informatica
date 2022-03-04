@@ -10,7 +10,7 @@ Debajo viene el cronograma preliminar de los temas que puede actualizarse durant
 
 | Semanas | Tema | Videos | Presentación | Ejercicios |  Código |
 | :------------- | :-------- | :-------- | :-------- |  :-------- | :-------- |
-1 | Fundamentos de la programación | [<i class="fa-solid fa-file-code"></i>](MATERIAL)
+1 | Fundamentos de la programación | [<span class="fa-solid fa-file-code" aria-hidden="true"></span>](MATERIAL)
 2 | Sistemas numéricos y representación de datos |
 2 | Tipos de datos |
 2 | Definición y utilización de variables |
