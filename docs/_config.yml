@@ -4,6 +4,7 @@ title: CI-0202 Principios de Informática
 # Your name to show in the footer
 author: Sivana Hamer
 
+#Theme used
 remote_theme: daattali/beautiful-jekyll@5.0.0
 
 titles_from_headings:
