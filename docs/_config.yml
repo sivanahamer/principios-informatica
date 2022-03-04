@@ -5,3 +5,8 @@ title: CI-0202 Principios de Informática
 author: Sivana Hamer
 
 remote_theme: daattali/beautiful-jekyll@5.0.0
+
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true 
