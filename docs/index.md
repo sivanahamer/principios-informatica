@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/sivanahamer/principios-informatica/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# Principios de Informática
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Es un curso básico de programación para estudiantes del área de ingeniería y afines. En el curso se introduce al estudiante al pensamiento abstracto para la resolución de problemas de ingeniería y científicos, automatizable por medio de herramientas informáticas de desarrollo, utilizando metodologías sistemáticas. El estudiante aprenderá a reconocer la aplicabilidad de flujos de control y modelos de datos básicos para lograr el diseño e implementación de programas y algoritmos.
 
-### Markdown
+**Nota:** El entorno virtual del sitio se encuentra en [Mediación virtual](https://mv1.mediacionvirtual.ucr.ac.cr/course/view.php?id=25319) donde se encuentran otros materiales y asignaciones del curso.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Cronograma
 
-```markdown
-Syntax highlighted code block
+Debajo viene el cronograma preliminar de los temas que puede actualizarse durante el desarrollo del semestre. Cada enlace adjunta los materiales asociados.
 
-# Header 1
-## Header 2
-### Header 3
+| Semanas | Tema | Videos | Presentación | Ejercicios |  Código |
+| :------------- | :-------- | :-------- | :-------- |  :-------- | :-------- |
+1 | Fundamentos de la programación | [<i class="fa-solid fa-file-code"></i>](MATERIAL)
+2 | Sistemas numéricos y representación de datos |
+2 | Tipos de datos |
+2 | Definición y utilización de variables |
+3 | Entrada y salida básica, verificación |
+3 | Expresiones y operadores |
+4,5 | Instrucciones y estructuras de control |
+6,7 | Subrutinas |
+6,7 | Recursividad |
+8,9 | Colecciones lineales de datos |
+10 | Matrices |
+11 | Hileras o cadenas de caracteres (textos) |
+12 | Entrada y salida: archivos |
+13, 14 | Introducción a la programación orientada a objetos |
+15, 16 | Programación avanzada |
 
-- Bulleted
-- List
+## Estructura
 
-1. Numbered
-2. List
+- `doc`: Página web del material.
+- `src`: Código fuente elaborado en clases.
+- `presentaciones`: Presentaciones de las clases.
 
-**Bold** and _Italic_ and `Code` text
+## License
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sivanahamer/principios-informatica/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
