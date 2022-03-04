@@ -4,6 +4,8 @@ Es un curso básico de programación para estudiantes del área de ingeniería y
 
 **Nota:** El entorno virtual del sitio se encuentra en [Mediación virtual](https://mv1.mediacionvirtual.ucr.ac.cr/course/view.php?id=25319) donde se encuentran otros materiales y asignaciones del curso.
 
+<a href="YOUTUBE VIDEO"><span class="fa-solid fa-video" aria-hidden="true"></span></a>
+
 ## Cronograma
 
 Debajo viene el cronograma preliminar de los temas que puede actualizarse durante el desarrollo del semestre. Cada enlace adjunta los materiales asociados.
