@@ -4,15 +4,13 @@ Es un curso básico de programación para estudiantes del área de ingeniería y
 
 **Nota:** El entorno virtual del sitio se encuentra en [Mediación virtual](https://mv1.mediacionvirtual.ucr.ac.cr/course/view.php?id=25319) donde se encuentran otros materiales y asignaciones del curso.
 
-<a href="YOUTUBE VIDEO"><span class="fa-solid fa-video" aria-hidden="true"></span></a>
-
 ## Cronograma
 
 Debajo viene el cronograma preliminar de los temas que puede actualizarse durante el desarrollo del semestre. Cada enlace adjunta los materiales asociados.
 
 | Semanas | Tema | Videos | Presentación | Ejercicios |  Código |
 | :------------- | :-------- | :-------- | :-------- |  :-------- | :-------- |
-1 | Fundamentos de la programación | <a href="YOUTUBE VIDEO"><span class="fa-solid fa-video" aria-hidden="true"></span></a> | <a href="SLIDE"><span class="fa-solid fa-presentation-screen" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa-solid fa-pencil" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa-solid fa-code" aria-hidden="true"></span></a> |
+1 | Fundamentos de la programación | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-video" aria-hidden="true"></span></a> | <a href="SLIDE"><span class="fa fa-solid fa-presentation-screen" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-pencil" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-code" aria-hidden="true"></span></a> |
 2 | Sistemas numéricos y representación de datos |
 2 | Tipos de datos |
 2 | Definición y utilización de variables |
