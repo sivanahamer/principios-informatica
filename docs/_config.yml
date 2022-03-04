@@ -12,7 +12,3 @@ titles_from_headings:
   enabled:     true
   strip_title: true
   collections: true 
-
-# Copyright statement for the footer
-defaults:
-  footer-extra: copyright.html
