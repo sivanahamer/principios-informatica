@@ -15,8 +15,6 @@ Debajo viene el cronograma preliminar de los temas que puede actualizarse durant
 2 | Tipos de datos | <a href="https://youtu.be/7gcAhGDe1jk"><span class="fa fa-solid fa-video" aria-hidden="true"></span></a> | <a href=".\presentaciones\03-Tipos-datos.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> |  |  |
 2 | Definición y utilización de variables | <a href="https://youtu.be/m1QMxY3Y6Hc"><span class="fa fa-solid fa-video" aria-hidden="true"></span></a> | <a href=".\presentaciones\04-Variables.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> |  |  |
 3 | Entrada y salida básica, verificación |
-<!-- 
-<a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-video" aria-hidden="true"></span></a> | <a href=".\presentaciones\01-Fundamentos.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-pen" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-code" aria-hidden="true"></span></a> | -->
 3 | Expresiones y operadores |
 4,5 | Instrucciones y estructuras de control |
 6,7 | Subrutinas |
