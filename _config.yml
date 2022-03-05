@@ -12,6 +12,3 @@ titles_from_headings:
   enabled:     true
   strip_title: true
   collections: true 
-
-#Set that math is in use
-use_math: true
