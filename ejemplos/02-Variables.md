@@ -74,7 +74,7 @@ La velocidad (v) es: 6.0
 ```
 
 ## Monedas
- 
+
 Usted tiene un chanchito en el que guarda monedas (en dólares) de diferente denominación. Usted un día decide abrir el chanchito y contar sus contenidos. Elabore un programa que, dada la cantidad de monedas de cada denominación, calcule cuántos dólares usted tiene. Las denominaciones de monedas son las siguientes:
 
 - **Penny:** 0.01
@@ -190,11 +190,13 @@ Consumo promedio: 2.0
 
 ## Crammer
 
-El conjunto de ecuaciones lineales:  
+El conjunto de ecuaciones lineales:
+
 $$a_{1}x_{1} + b_{1}x_{2} = c_{1}$$  
 $$a_{2}x_{1} + b_{2}x_{2} = c_{2}$$
 
-Puede resolverse utilizando la regla de Crammer:  
+Puede resolverse utilizando la regla de Crammer:
+
 $$x_{1} = \frac{c_{1}b_{2} - c_{2}b_{1}}{a_{1}b_{2} - b_{1}a_{2}}$$  
 $$x_{2} = \frac{c_{2}a_{1} - c_{1}a_{2}}{a_{1}b_{2} - b_{1}a_{2}}$$
 
