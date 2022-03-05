@@ -13,14 +13,5 @@ titles_from_headings:
   strip_title: true
   collections: true 
 
-# Default YAML values (more information on Jekyll's site)
-defaults:
-  -
-    scope:
-      path: ""
-      type: "ejemplos"
-    values:
-      layout: "ejemplos"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
-      ext-js: "https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS-MML_CHTML"
+  #Include for Math in HTML
+  head-extra: head_extra.html
