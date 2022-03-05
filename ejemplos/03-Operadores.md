@@ -260,3 +260,7 @@ El animal Tiburón es mamífero: False
 ```
 
 **Nota** Puede asumir que la entrada del usuario siempre es "Si" o "No". Si desea tener de entrada booleanos se recomienda utilizar la función [strtobool de la librería estándar](https://docs.python.org/3/distutils/apiref.html#distutils.util.strtobool) para convertir strings a booleanos.
+
+## Referencias
+
+- Villalobos, L. (2019). Tarea 2. Material del curso CI-0202, Universidad de Costa Rica.

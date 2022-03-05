@@ -13,5 +13,5 @@ titles_from_headings:
   strip_title: true
   collections: true 
 
-  #Include for Math in HTML
-  head-extra: head_extra.html
+#Include for Math in HTML
+head-extra: head_extra.html
