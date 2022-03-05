@@ -4,9 +4,9 @@
 
 ## Estructura del proyecto
 
-- `doc`: Página web del material.
+- `docs`: Página web del material.
+  - `presentaciones`: Presentaciones de las clases.
 - `src`: Código fuente elaborado en clases.
-- `presentaciones`: Presentaciones de las clases.
 
 ## Licencia
 
