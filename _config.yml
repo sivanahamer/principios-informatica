@@ -14,4 +14,4 @@ titles_from_headings:
   collections: true 
 
 #Include for Math in HTML
-head-extra: head_extra.html
+head-extra: _mathjax_support.html
