@@ -13,5 +13,5 @@ titles_from_headings:
   strip_title: true
   collections: true 
 
-#Include for Math in HTML
-head-extra: _mathjax_support.html
+#Set that math is in use
+use_math: true
