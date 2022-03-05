@@ -24,13 +24,15 @@ El logaritmo se indefine.
 
 Con la Revolución Industrial, empezó el uso del carbón como fuente de energía. Incluso en la actualidad, el carbón es fuente de electricidad en varios países avanzados.  
 Desde mediados del siglo XIX, se sabe que el oxígeno usado en el proceso de quema se combina con el carbono y el azufre del carbón, produciendo dióxido de carbono y dióxido de azufre. Cuando estos gases ascienden a la atmósfera, el dióxido de azufre se combina con el vapor de agua y el oxígeno en el aire, formando ácido sulfúrico. De este se separan iones de hidrógeno, que son los que cambian el nivel de acidez de la tierra y el agua cuando caen por medio de la lluvia.  
-La acidez de los bosques y lagos se mide en pH utilizando la fórmula:  
+La acidez de los bosques y lagos se mide en pH utilizando la fórmula:
+
 $$pH = - Log_{10}(\textnormal{concentración de iones de hidrógeno})$$  
+
 La concentración de iones de hidrógeno típicamente se mide en $mol/L$. Un nivel de pH de 7 es neutral, inferior a 7 indica presencia de un ácido, y superior a 7 indica presencia de un alcalino. Note que en el caso de una concentración de 0 (o negativa), el logaritmo se indefine. En ese caso, asuma un pH de 14.
 
 Escriba un programa que solicite una concentración de iones de hidrógeno en $mol/L$ y calcule el pH correspondiente. Además, muestre si es Ácido, Alcalino, o Neutral.
 
-**Nota** En Python, el logaritmo base 10 se utiliza con \lstinline{log10(numero)}. Para utilizarlo, debe agregar al inicio de su programa la línea \lstinline{from math import log10}.
+**Nota** En Python, el logaritmo base 10 se utiliza con `log10(numero)`. Para utilizarlo, debe agregar al inicio de su programa la línea `from math import log10`.
 
 **Ejemplo 1:**
 
@@ -102,7 +104,7 @@ Algo importante de notar, es que esta función se indefine en 0, ya que se está
 - Cree un programa que pida un número y muestre el seno cardinal correspondiente. Muestrelo de la forma `sinc(0.0000) = 1.0000`, utilizando 4 decimales. Para resolver la indefinición en 0, puede utilizar el manejo de excepciones.
 - Por propiedad del seno cardinal, este vale 0 cuando x es un número entero (menos 0). Pruebe su programa con los valores `-2, -1, 0, 1, 2`. Debería darle como resultado `0, 0, 1, 0, 0`.
 
-**Nota** Seno en Python se calcula con la función \lstinline{sin(numero)}, y el valor de pi se puede obtener con la variable \lstinline{pi}. Para poder utilizar estos 2 valores, debe importarlos de la biblioteca math, para esto, agregue el encabezado \lstinline{from math import sin, pi} al inicio del programa. Por ejemplo:
+**Nota** Seno en Python se calcula con la función `sin(numero)`, y el valor de pi se puede obtener con la variable `pi`. Para poder utilizar estos 2 valores, debe importarlos de la biblioteca math, para esto, agregue el encabezado `from math import sin, pi` al inicio del programa. Por ejemplo:
 
 ```{bash}
 >>> from math import sin, pi
@@ -145,7 +147,7 @@ Dado un ángulo en radianes $x$, el valor de la tangente puede aproximarse media
 
 $$tan(x) = x + \frac{x^3}{3} + \frac{2x^5}{15} + \frac{17x^7}{315} + \frac{62x^9}{2835}$$
 
-Escriba un programa al que se le ingrese un ángulo \textbf{en grados} y calcule la aproximación de su tangente mediante el polinomio de Taylor. Luego calcule el error: \lstinline{valor_real - valor_aprox}. Utilice exactamente 6 decimales para mostrar el resultado, el valor real y el error.
+Escriba un programa al que se le ingrese un ángulo \textbf{en grados} y calcule la aproximación de su tangente mediante el polinomio de Taylor. Luego calcule el error: `valor_real - valor_aprox`. Utilice exactamente 6 decimales para mostrar el resultado, el valor real y el error.
 
 Esta aproximación es válida para valores de $-90$ a $90$ (o $\frac{-\pi}{2}$ a $\frac{\pi}{2}$). Para valores fuera de este rango, va a topar con errores muy grandes.
 
