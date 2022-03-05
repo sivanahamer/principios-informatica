@@ -14,11 +14,11 @@ Debajo viene el cronograma preliminar de los temas que puede actualizarse durant
 2 | Sistemas numéricos y representación de datos | <a href="https://youtu.be/VqKI2hnxvmg"><span class="fa fa-solid fa-video" aria-hidden="true"></span></a> | <a href=".\presentaciones\02-Sistemas.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href=".\ejemplos\02-Variables"><span class="fa fa-solid fa-pen" aria-hidden="true"></span></a> |  |
 2 | Tipos de datos | <a href="https://youtu.be/7gcAhGDe1jk"><span class="fa fa-solid fa-video" aria-hidden="true"></span></a> | <a href=".\presentaciones\03-Tipos-datos.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href=".\ejemplos\02-Variables"><span class="fa fa-solid fa-pen" aria-hidden="true"></span></a> |  |
 2 | Definición y utilización de variables | <a href="https://youtu.be/m1QMxY3Y6Hc"><span class="fa fa-solid fa-video" aria-hidden="true"></span></a> | <a href=".\presentaciones\04-Variables.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href=".\ejemplos\02-Variables"><span class="fa fa-solid fa-pen" aria-hidden="true"></span></a> |  |
-3 | Entrada y salida básica, verificación |
-3 | Expresiones y operadores |
-4,5 | Instrucciones y estructuras de control |
-6,7 | Subrutinas |
-6,7 | Recursividad |
+3 | Entrada y salida básica, verificación | | | | | <a href="AAAAAAAAAAAAAAAAAAAAA"><span class="fa fa-solid fa-video" aria-hidden="true"></span></a> | <a href=".\presentaciones\05-IO.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href=".\ejemplos\03-Operadores"><span class="fa fa-solid fa-pen" aria-hidden="true"></span></a> |  |
+3 | Expresiones y operadores | | | | | <a href="AAAAAAAAAAAAAAAAAAAAA"><span class="fa fa-solid fa-video" aria-hidden="true"></span></a> | <a href=".\presentaciones\06-Operadores.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href=".\ejemplos\03-Operadores"><span class="fa fa-solid fa-pen" aria-hidden="true"></span></a> |  |
+4,5 | Instrucciones y estructuras de control | | | | | <a href="AAAAAAAAAAAAAAAAAAAAA"><span class="fa fa-solid fa-video" aria-hidden="true"></span></a> | <a href=".\presentaciones\07-Control.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href=".\ejemplos\04-Control"><span class="fa fa-solid fa-pen" aria-hidden="true"></span></a> |  |
+6,7 | Subrutinas | | | | | <a href="AAAAAAAAAAAAAAAAAAAAA"><span class="fa fa-solid fa-video" aria-hidden="true"></span></a> | <a href=".\presentaciones\08-Funciones.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href=".\ejemplos\05-Funciones"><span class="fa fa-solid fa-pen" aria-hidden="true"></span></a> |  |
+6,7 | Recursividad | | | | | <a href="AAAAAAAAAAAAAAAAAAAAA"><span class="fa fa-solid fa-video" aria-hidden="true"></span></a> | <a href=".\presentaciones\09-Recursividad.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href=".\ejemplos\06-Recursividad"><span class="fa fa-solid fa-pen" aria-hidden="true"></span></a> |  |
 8,9 | Colecciones lineales de datos |
 10 | Matrices |
 11 | Hileras o cadenas de caracteres (textos) |
