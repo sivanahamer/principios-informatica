@@ -4,7 +4,7 @@
 
 Un número entero es par si es divisible entre 2, o impar si no lo es. Cree un programa que pida un número, y luego muestre si es par o no.
 
-Aquí podría ser útil el operador módulo (\%). Este muestra el residuo de la división entera de 2 números. Este tiene la propiedad de que el resultado es 0 si eran enteramente divisibles:
+Aquí podría ser útil el operador módulo (`%`). Este muestra el residuo de la división entera de 2 números. Este tiene la propiedad de que el resultado es 0 si eran enteramente divisibles:
 
 **Ejemplo 1:**
 
@@ -32,7 +32,7 @@ Cree un código que lea correctamente un número real. El programa deberá segui
 
 ## Promedio
 
-Escriba un programa al que se le ingrese un número $n$. El programa ahora deberá pedir otros $n$ nuevos números. Sobre estos, calculará su promedio (media aritmética).  
+Escriba un programa al que se le ingrese un número $$n$$. El programa ahora deberá pedir otros $$n$$ nuevos números. Sobre estos, calculará su promedio (media aritmética).  
 
 $$\frac{x_{1} + x_{2} + ... + x_{n}}{n}$$  
 
@@ -44,7 +44,7 @@ Cree un programa que funcione como una calculadora. Pida dos números, luego una
 
 Una ecuación cuadrática es de la forma:  
 $$ax^{2} + bx + c = 0$$
-Donde $a$, $b$ y $c$ son coeficientes reales y $a \neq 0$.
+Donde $$a$$, $$b$$ y $$c$$ son coeficientes reales y $$a \neq 0$$.
 
 Escriba un programa que reciba los 3 coeficientes de una ecuación cuadrática y calcule sus raíces, o valores que la resuelven (sea igual a 0). Las raíces se pueden calcular con las fórmulas:  
 
@@ -52,13 +52,13 @@ $$r_{1} = \frac{-b+\sqrt{b^{2} - 4ac}}{2a}$$
 
 $$r_{2} = \frac{-b-\sqrt{b^{2} - 4ac}}{2a}$$
 
-Es posible que el sistema no tenga solución, que es lo que ocurre cuando el discriminante $\Delta = b^{2} - 4ac$ es negativo. En este caso, la raíz en las fórmulas no tiene solución y el programa debe mostrar un mensaje indicando que la ecuación no tiene solución.
+Es posible que el sistema no tenga solución, que es lo que ocurre cuando el discriminante $$\Delta = b^{2} - 4ac$$ es negativo. En este caso, la raíz en las fórmulas no tiene solución y el programa debe mostrar un mensaje indicando que la ecuación no tiene solución.
 
-Igualmente, es posible que se introduzca un valor de $a = 0$. Este caso no corresponde a una ecuación cuadrática, pero igualmente se mostrará la solución de la ecuación, que corresponde a:
+Igualmente, es posible que se introduzca un valor de $$a = 0$$. Este caso no corresponde a una ecuación cuadrática, pero igualmente se mostrará la solución de la ecuación, que corresponde a:
 
 $$r = \frac{-c}{b}$$
 
-En el caso que $a = 0$ y $b = 0$, no se tiene una ecuación. En este caso, simplemente muestre un mensaje de error y termine con el programa. Note que es válido que $b = 0$ siempre y cuando $a \neq 0$.
+En el caso que $$a = 0$$ y $$b = 0$$, no se tiene una ecuación. En este caso, simplemente muestre un mensaje de error y termine con el programa. Note que es válido que $$b = 0$$ siempre y cuando $$a \neq 0$$.
 
 **Ejemplo 1:**
 
@@ -104,8 +104,8 @@ Los valores ingresados no corresponden a una ecuación válida
 
 Cree un programa que convierta una temperatura, en Celsius o Fahrenheit, a su contraparte. Las fórmulas de conversión son:
 
-- Fahrenheit a Celsius: $T_{C} = \frac{5}{9}(T_{F} - 32)$
-- Celsius a Fahrenheit: $T_{F} = \frac{9}{5}T_{C} + 32$
+- Fahrenheit a Celsius: $$T_{C} = \frac{5}{9}(T_{F} - 32)$$
+- Celsius a Fahrenheit: $$T_{F} = \frac{9}{5}T_{C} + 32$$
 
 ## Pura vida
 
@@ -149,7 +149,7 @@ Introduzca un número: 12
 12 es factor
 ```
 
-**Nota:** El operador de módulo ()\%) puede sacar el residuo de la división. Además si la división es entera, entonces el residuo es 0. Otra cuestión es que los factores de un número siempre son menores o iguales a él. Además, se está trabajando con números enteros positivos. Dicho de otra manera, deberíamos revisar todos los números entre 1 y el número recibido.
+**Nota:** El operador de módulo (`%`) puede sacar el residuo de la división. Además si la división es entera, entonces el residuo es 0. Otra cuestión es que los factores de un número siempre son menores o iguales a él. Además, se está trabajando con números enteros positivos. Dicho de otra manera, deberíamos revisar todos los números entre 1 y el número recibido.
 
 ## IMC
 

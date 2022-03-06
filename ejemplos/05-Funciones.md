@@ -1,4 +1,4 @@
-# ⚙ Funciones
+# ↪ Funciones
 
 ## Moneda
 
@@ -15,13 +15,13 @@ $$sinc(x) =
 \end{cases}
 $$
 
-Escriba un programa que implemente la función seno\_cardinal que recibe x.
+Escriba un programa que implemente la función seno_cardinal que recibe x.
 
 ## Sustitución polinomial
 
-Escriba una función que represente un polinomio de segundo grado $a x^{2} + b x + c$. A esta se le pasarán los valores de $a != 0$, $b$, $c$ y $x$, y la función deberá retornar el resultado de sustituir estos valores en la expresión de arriba.
+Escriba una función que represente un polinomio de segundo grado $$a x^{2} + b x + c$$. A esta se le pasarán los valores de $$a != 0$$, $$b$$, $$c$$ y $$x$$, y la función deberá retornar el resultado de sustituir estos valores en la expresión de arriba.
 
-Al invocar la función con $a=1$, $b=2$, $c=3$, y $x=4$:
+Al invocar la función con $$a=1$$, $$b=2$$, $$c=3$$, y $$x=4$$:
 
 ```{bash}
 polinomioGrado2(1, 2, 3, 4)
@@ -33,21 +33,21 @@ Devuelve lo siguiente:
 27
 ```
 
-Escriba una función que represente un polinomio de cuarto grado $a x^{4} + b x^{3} + c x^{2} + d x + e$. A esta se le pasarán los valores de $a != 0$, $b$, $c$, $d$, $e$, y $x$, y la función deberá retornar el resultado de sustituir estos valores en la expresión de arriba.
+Escriba una función que represente un polinomio de cuarto grado $$a x^{4} + b x^{3} + c x^{2} + d x + e$$. A esta se le pasarán los valores de $$a != 0$$, $$b$$, $$c$$, $$d$$, $$e$$, y $$x$$, y la función deberá retornar el resultado de sustituir estos valores en la expresión de arriba.
 
-Al invocar la función con $a=1$, $b=2$, $c=3$, $d=4$, $e=5$, y $x=6$:
+Al invocar la función con $$a=1$$, $$b=2$$, $$c=3$$, $$d=4$$, $$e=5$$, y $$x=6$$:
 
 ```{bash}
 polinomioGrado4(1, 2, 3, 4, 5, 6)
+```
 
-```{bash}
 Devuelve lo siguiente:
 
 ```{bash}
 1865
 ```
 
-**Nota:** Puede asumir que $a $, $b$, $c$, y $d$ son distintos a 0. Por lo tanto, no requiere validar los números.
+**Nota:** Puede asumir que $$a$$, $$b$$, $$c$$, y $$d$$ son distintos a 0. Por lo tanto, no requiere validar los números.
 
 ## Brújula
 
@@ -129,7 +129,7 @@ El dia de la semana es: Lunes
 
 Las calculadoras son dispositivos eléctronicos que nos automatizan algunas operaciones aritméticas. Implemente las siguientes operaciones en funciones:
 
-- **sumar:**  Recibe dos números y retorna la suma de los números. Por ejemplo, `10`}` y `3` retorna `13`.
+- **sumar:**  Recibe dos números y retorna la suma de los números. Por ejemplo, `10` y `3` retorna `13`.
 - **restar:** Recibe dos números y retorna la resta del primer número con el segundo número. Por ejemplo,`10` y `3` retorna `7`.
 - **multiplicar:** Recibe dos números y retorna la multiplicación de los números. Por ejemplo, `10` y `3` retorna `30`.
 - **dividir:** Recibe dos números y retorna la división del primer número con el segundo número. Por ejemplo, `10` y `3` retorna `3.3334`.

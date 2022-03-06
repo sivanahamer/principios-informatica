@@ -1,8 +1,8 @@
-# ✔ Entrada, salida, verificación y operadores
+# ✅ Entrada, salida, verificación y operadores
 
 ## Logaritmo natural
 
-En las matemáticas, una función logarítmica es la función inversa a la exponente. Queremos crear un programa que nos calcule al $y$ de la función logarítmica dado un $x$. Implemente un programa que pueda calcular el logaritmo natural de un número. Además, debe manejar el caso de la indefinición cuando los números son menores o iguales a 0.
+En las matemáticas, una función logarítmica es la función inversa a la exponente. Queremos crear un programa que nos calcule al $$y$$ de la función logarítmica dado un $$x$$. Implemente un programa que pueda calcular el logaritmo natural de un número. Además, debe manejar el caso de la indefinición cuando los números son menores o iguales a 0.
 
 **Ejemplo 1:**
 
@@ -28,9 +28,9 @@ La acidez de los bosques y lagos se mide en pH utilizando la fórmula:
 
 $$pH = - Log_{10}(\textnormal{concentración de iones de hidrógeno})$$  
 
-La concentración de iones de hidrógeno típicamente se mide en $mol/L$. Un nivel de pH de 7 es neutral, inferior a 7 indica presencia de un ácido, y superior a 7 indica presencia de un alcalino. Note que en el caso de una concentración de 0 (o negativa), el logaritmo se indefine. En ese caso, asuma un pH de 14.
+La concentración de iones de hidrógeno típicamente se mide en $$mol/L$$. Un nivel de pH de 7 es neutral, inferior a 7 indica presencia de un ácido, y superior a 7 indica presencia de un alcalino. Note que en el caso de una concentración de 0 (o negativa), el logaritmo se indefine. En ese caso, asuma un pH de 14.
 
-Escriba un programa que solicite una concentración de iones de hidrógeno en $mol/L$ y calcule el pH correspondiente. Además, muestre si es Ácido, Alcalino, o Neutral.
+Escriba un programa que solicite una concentración de iones de hidrógeno en $$mol/L$$ y calcule el pH correspondiente. Además, muestre si es Ácido, Alcalino, o Neutral.
 
 **Nota** En Python, el logaritmo base 10 se utiliza con `log10(numero)`. Para utilizarlo, debe agregar al inicio de su programa la línea `from math import log10`.
 
@@ -99,7 +99,7 @@ El comportamiento de esta función es similar a un coseno, pero mientras aumenta
 
 ![Seno cardinal](../imgs/sinc.png)
 
-Algo importante de notar, es que esta función se indefine en 0, ya que se está realizando una división entre 0. Mediante el teorema de L’Hôpital, podemos calcular que $senc(0) = 1$.
+Algo importante de notar, es que esta función se indefine en 0, ya que se está realizando una división entre 0. Mediante el teorema de L’Hôpital, podemos calcular que $$senc(0) = 1$$.
   
 - Cree un programa que pida un número y muestre el seno cardinal correspondiente. Muestrelo de la forma `sinc(0.0000) = 1.0000`, utilizando 4 decimales. Para resolver la indefinición en 0, puede utilizar el manejo de excepciones.
 - Por propiedad del seno cardinal, este vale 0 cuando x es un número entero (menos 0). Pruebe su programa con los valores `-2, -1, 0, 1, 2`. Debería darle como resultado `0, 0, 1, 0, 0`.
@@ -115,13 +115,13 @@ Algo importante de notar, es que esta función se indefine en 0, ya que se está
 
 ## Coseno
 
-Dado un ángulo en radianes $x$, el valor del coseno puede aproximarse mediante la siguiente sucesión de Taylor:
+Dado un ángulo en radianes $$x$$, el valor del coseno puede aproximarse mediante la siguiente sucesión de Taylor:
 
 $$cos(x) = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \frac{x^6}{6!} + \frac{x^8}{8!}$$
 
 Escriba un programa al que se le ingrese un ángulo **en grados** y calcule la aproximación de su coseno mediante el polinomio de Taylor. Luego calcule el error: `valor_real - valor_aprox`. Utilice exactamente 6 decimales para mostrar el resultado, el valor real y el error.
 
-Esta aproximación es válida para valores de $-180$ a $180$ (o $-\pi$ a $\pi$). Para valores fuera de este rango, va a topar con errores muy grandes.
+Esta aproximación es válida para valores de $$-180$$ a $$180$$ (o $$-\pi$$ a $$\pi$$). Para valores fuera de este rango, va a topar con errores muy grandes.
 
 **Nota** En Python, el coseno se utiliza con `cos(angulo)`. Para utilizarlo, debe agregar al inicio de su programa la línea `from math import cos`. Lo mismo para pi (lo ocupará para convertir de grados a radianes) y factorial (!):
 
@@ -143,13 +143,13 @@ Error de aproximación: -0.023978
 
 ## Tangente
 
-Dado un ángulo en radianes $x$, el valor de la tangente puede aproximarse mediante la siguiente sucesión de Taylor:
+Dado un ángulo en radianes $$x$$, el valor de la tangente puede aproximarse mediante la siguiente sucesión de Taylor:
 
 $$tan(x) = x + \frac{x^3}{3} + \frac{2x^5}{15} + \frac{17x^7}{315} + \frac{62x^9}{2835}$$
 
-Escriba un programa al que se le ingrese un ángulo \textbf{en grados} y calcule la aproximación de su tangente mediante el polinomio de Taylor. Luego calcule el error: `valor_real - valor_aprox`. Utilice exactamente 6 decimales para mostrar el resultado, el valor real y el error.
+Escriba un programa al que se le ingrese un ángulo **en grados** y calcule la aproximación de su tangente mediante el polinomio de Taylor. Luego calcule el error: `valor_real - valor_aprox`. Utilice exactamente 6 decimales para mostrar el resultado, el valor real y el error.
 
-Esta aproximación es válida para valores de $-90$ a $90$ (o $\frac{-\pi}{2}$ a $\frac{\pi}{2}$). Para valores fuera de este rango, va a topar con errores muy grandes.
+Esta aproximación es válida para valores de $$-90$$ a $$90$$  (o $$\frac{-\pi}{2}$$ a $$\frac{\pi}{2}$$). Para valores fuera de este rango, va a topar con errores muy grandes.
 
 **Nota** En Python, la tangente se utiliza con `tan(angulo)`. Para utilizarlo, debe agregar al inicio de su programa la línea `from math import tan`. Lo mismo para pi (lo ocupará para convertir de grados a radianes)):
 

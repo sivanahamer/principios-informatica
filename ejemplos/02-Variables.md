@@ -122,7 +122,7 @@ Y debería mostrar el siguiente resultado:
 La longitud de la hipotenusa es: 5.0
 ```
 
-**Nota:** La raíz cuadrada en Python se calcula con el comando sqrt(número). Este se debe importar desde math, agregando la línea ``\lstinline{from math import sqrt}''. Ejemplo:
+**Nota:** La raíz cuadrada en Python se calcula con el comando sqrt(número). Este se debe importar desde math, agregando la línea `\lstinline{from math import sqrt}`. Ejemplo:
 
 ```{python}
 >>> from math import sqrt
@@ -202,10 +202,12 @@ $$x_{2} = \frac{c_{2}a_{1} - c_{1}a_{2}}{a_{1}b_{2} - b_{1}a_{2}}$$
 
 Implemente un programa que resuelva un par de ecuaciones lineales de esta forma utilizando la regla de Crammer.
 
-**Ejemplo:** El sistema:  
+**Ejemplo:** El sistema:
+
 $$3x_{1} + 4x_{2} = 40$$
 $$5x_{1} + 2x_{2} = 34$$
-es resuelto con $x_{1}$ = 4 y $x_{2}$ = 7.
+
+es resuelto con: $$x_{1} = 4$$  y $$x_{2}= 7$$.
 
 Para este ejemplo, el programa pedirá los siguientes datos:
 
