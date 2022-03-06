@@ -1,4 +1,4 @@
-# Recursividad
+# ➰ Recursividad
 
 ## Fibonnaci
 
@@ -14,6 +14,32 @@ f_{n} =
 $$
 
 Implemente la función recursiva de fibonacci.
+
+## Logaritmo
+
+Se puede calcular el logaritmo recursivamente. Para ello, se puede utilizar la siguiente fórmula:
+
+$$
+    log_2 =
+    \begin{cases}
+        1 & n = 1\\
+        1 + log_2 (n/2)& n > 1\\
+    \end{cases}
+$$
+
+**Ejemplo:**
+
+**Entrada:**
+
+```{bash}
+3
+```
+
+**Salida:**
+
+```{bash}
+1
+```
 
 ## Número triangular n
 

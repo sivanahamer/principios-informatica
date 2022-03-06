@@ -1,4 +1,36 @@
-# ✅ Entrada, salida, verificación y operadores
+# 🗣️ Entrada, salida, verificación y operadores
+
+## Game over
+
+En los videojuegos, es común que cuando se pierde un juego se imprima Game Over. Usted es parte de un equipo de videojuegos, en el cual le encargan mostrar un mensaje cuando se termina el juego. Imprima un mensaje de `Game over`.
+
+**Ejemplo:**
+
+**Salida:**
+
+```{bash}
+Game over
+```
+
+### Swap
+
+Como parte de la edición de artículos, es común mover el orden de oraciones, párrafos y secciones para mejorar la estructura y legibilidad del artículo. Por lo tanto una compañía editorial decide crear un programa que obtiene dos textos e imprime el resultado de darle vuelta al orden de los textos. Es decir, imprime el primer mensaje de segundo y el segundo de primero.
+
+**Ejemplo:**
+
+**Entrada**
+
+```{bash}
+Primer texto: Soy el primer mensaje
+Segundo texto: Soy el segundo mensaje
+```
+
+**Salida:**
+
+```{bash}
+Soy el segundo mensaje
+Soy el primer mensaje
+```
 
 ## Logaritmo natural
 

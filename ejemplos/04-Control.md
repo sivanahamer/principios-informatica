@@ -203,6 +203,98 @@ El IMC de Mario es de 88.8 (Obesidad mórbida)
 
 Por limitaciones de nuestros programas de Python, no podremos mostrar todos los resultados al final, si no que posiblemente tengamos que mostrarlos conforme los vayamos pidiendo.
 
+## Edad
+
+El Instituto Nacional de Estadísticas y Censos (INEC) frecuentemente ocupa dividir sus datos en grupos de edades para el cálculo de tendencias. Por lo tanto, se ocupa implementar la clasificación de grupos de edades en un programa que pida la cantidad de personas, pida la edad de cada persona y muestra en qué grupo pertenecen. Para agrupar tendencias dentro de edades similares, se han creado grupos de edad. Los grupos se conforman de las siguientes edades:
+
+| Grupo | Edad |
+|-----| ---|
+Niñ@s | 0-14
+Joven | 15-24
+Adult@ | 25-64
+Ancian@ | 65 y mayores
+
+**Ejemplo:**
+
+```{bash}
+Cantidad de personas: 4
+
+Edad: 80
+Es ancian@
+
+Edad: 20 
+Es joven
+
+Edad: 10
+Es ninn@
+
+Edad: 30
+Es adult@
+```
+
+## Conjetura de Collatz
+
+Un grupo de investigación de la escuela de matemática de la Universidad de Costa Rica está investigando la conjetura. Por lo tanto, requieren un programa que, dado un número, calcule la secuencia de la Conjetura de Collatz.
+
+La Conjetura de Collatz es una conjetura matemática, una proposición que se supone que es verdadera dado evidencia auxiliar que no se ha probado o refutado formalmente. La conjetura es una secuencia para cualquier número entero positivo $n$ que tiene la siguiente forma. Si el término anterior es par, entonces el siguiente término es la mitad del término previo. Pero si el término anterior es impar, entonces el término siguiente se multiplica por 3 y se le suma 1. En algún punto, no importa el $n$ con que se inicia, siempre la secuencia llega a 1. Por la tanto, la secuencia se puede representar mediante la siguiente función para un número entero positivo $$n$$:
+
+$$
+f(n) =
+\begin{cases}
+    \frac{n}{2} & \text{si n es par}\\
+    3n+1 & \text{si n es impar}\\
+\end{cases}
+$$
+
+**Ejemplo:**
+
+**Entrada**
+
+```{bash}
+Numero n para iniciar la secuencia: 3
+```
+
+**Salida** 
+
+```{bash}
+Secuencia Collatz: 3 10 5 16 18 4 2 1
+```
+
+## Zoodiaco chino
+
+La embajada de China como esfuerzo de dar a conocer su cultura ha decidido crear una página que determina su zodiaco chino. Se debe implementar que dado un año, se clasifique cual es el zodiaco chino respectivo.
+
+El zodiaco chino es una clasificación que asigna uno de doce animales con sus atributos basado en el calendario lunar. Los signos del zodiaco chino se repiten en un ciclo de 12 años. Cada animal representa cómo es que otros lo perciben. En la siguiente tabla aparecen la clasificación de los animales y algunos de los años.
+
+| Animal | Años |
+|-----| ---|
+Rata | 1972, 1984, 1996, 2008, 2020
+Buey | 1973, 1985, 1997, 2009, 2021
+Tigre | 1974, 1986, 1998, 2010, 2022
+Conejo | 1975, 1987, 1999, 2011, 2023
+Dragon | 1976, 1988, 2000, 2012, 2024
+Serpiente | 1977, 1989, 2001, 2013, 2025
+Caballo | 1978, 1990, 2002, 2014, 2026
+Cabra | 1979, 1991, 2003, 2015, 2027
+Mono | 1980, 1992, 2004, 2016, 2028
+Gallo | 1981, 1993, 2005, 2017, 2029
+Perro | 1982, 1994, 2006, 2018, 2030
+Cerdo | 1983, 1995, 2007, 2019, 2031
+
+**Ejemplo:**
+
+**Entrada**
+
+```{bash}
+Anno: 1998
+```
+
+**Salida** 
+
+```{bash}
+El zodiaco chino para el anno 1998 es Tigre
+```
+
 ## Referencias
 
 - Villalobos, L. (2019). Clase 4. Material del curso CI-0202, Universidad de Costa Rica.
