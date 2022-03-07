@@ -2,12 +2,13 @@ source "https://rubygems.org"
 
 # gem "beautiful-jekyll-theme", "5.0.0"
 
-gem "github-pages", group: :jekyll_plugins
 
-group :jekyll_plugins do
-    gem "jekyll-feed", "~> 0.12"
-    gem 'jekyll-titles-from-headings'
-end
+gem 'jekyll-titles-from-headings'
+
+# gem "github-pages", group: :jekyll_plugins
+# group :jekyll_plugins do
+#     gem "jekyll-feed", "~> 0.12"
+# end
   
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
