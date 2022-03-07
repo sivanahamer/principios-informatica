@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+# source "https://rubygems.org"
 
 # gem "beautiful-jekyll-theme", "5.0.0"
 gem "webrick"
