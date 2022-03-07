@@ -5,8 +5,8 @@ title: CI-0202 Principios de Informática
 author: Sivana Hamer
 
 #Theme used
-# theme: beautiful-jekyll-theme
-remote-theme: daattali/beautiful-jekyll@5.0.0
+theme: beautiful-jekyll-theme
+# remote-theme: daattali/beautiful-jekyll@5.0.0
 
 #Remove duplicate headings
 titles_from_headings:
@@ -19,20 +19,20 @@ titles_from_headings:
 link-col: "#DD003F"
 hover-col: "#AEDD00"
 
-# Default YAML values (more information on Jekyll's site)
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
-      ext-js: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
-  -
-    scope:
-      path: "" # any file that's not a post will be a "page" layout by default
-    values:
-      layout: "page"
-      ext-js: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+# # Default YAML values (more information on Jekyll's site)
+# defaults:
+#   -
+#     scope:
+#       path: ""
+#       type: "posts"
+#     values:
+#       layout: "post"
+#       comments: true  # add comments to all blog posts
+#       social-share: true # add social media sharing buttons to all blog posts
+#       ext-js: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+#   -
+#     scope:
+#       path: "" # any file that's not a post will be a "page" layout by default
+#     values:
+#       layout: "page"
+#       ext-js: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
