@@ -36,5 +36,4 @@ defaults:
     values:
       layout: "page"
       ext-js: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
-
-full-width: true
+      full-width: true
