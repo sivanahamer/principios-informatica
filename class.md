@@ -47,7 +47,7 @@ A continuación, viene el detalle de lo que se va a realizar en las clases con s
 | 1 Abril | ❌ | ✔️ | <span class="fa fa-solid fa-chalkboard" aria-hidden="true"></span> Fundamentos de la programación <br> <span class="fa fa-solid fa-hand-paper" aria-hidden="true"></span> Laboratorio 1 |
 | 5 Abril | ✔️ | ✔️ | <span class="fa fa-solid fa-chalkboard" aria-hidden="true"></span> Tipos de datos y variables |
 | 8 Abril | ❌ | ❌ | <span class="fa fa-solid fa-hand-paper" aria-hidden="true"></span> Laboratorio 2 |
-| 🏖️ Semana santa ||||
+<td colspan="4">Three 🏖️ Semana santa |
 | 19 Abril | ✔️ | ✔️| <span class="fa fa-solid fa-hand" aria-hidden="true"></span> Entrada, salida, verificación y operadores |
 | 23 Abril | ❌ | ❌ | <span class="fa fa-solid fa-hand-paper" aria-hidden="true"></span> Laboratorio 3 |
 | 26 Abril | ✔️ | ✔️ | <span class="fa fa-solid fa-chalkboard" aria-hidden="true"></span> Flujos de control |
