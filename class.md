@@ -1,4 +1,4 @@
-# Cronograma
+# Clases
 
 Debajo viene el cronograma preliminar de los temas que puede actualizarse durante el desarrollo del semestre. Cada enlace adjunta los materiales asociados.
 
@@ -37,9 +37,9 @@ Debajo viene el cronograma preliminar de los temas que puede actualizarse durant
 <!-- 
 <a href="AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\01-Fundamentos.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-code" aria-hidden="true"></span> | -->
 
-## Clases
+## Detalle
 
-A continuación, viene el detalle de lo que se va a realizar en las clases con su modalidad.
+A continuación, viene el detalle de lo que se va a realizar en las clases con su modalidad. Se irá actualizado y modificando con el avance del semestre.
 
 | Día | Presencialidad | Sincrónica | Temas |
 | :------------- | :-------- | :--------: | :-------- |
