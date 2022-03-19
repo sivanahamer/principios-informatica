@@ -39,19 +39,19 @@ Debajo viene el cronograma preliminar de los temas que puede actualizarse durant
 
 ## Detalle
 
-A continuación, viene el detalle de lo que se va a realizar en las clases con su modalidad. Se irá actualizado y modificando con el avance del semestre.
+A continuación, viene el detalle de lo que se va a realizar en las clases con su modalidad. Se irá actualizado y modificando con el avance del semestre. Todas las entregas con su detalle aparecen dentro de mediación.
 
 | Día | Presencialidad | Sincrónica | Temas |
 | :------------- | :-------- | :--------: | :-------- |
-| 29 Marzo | ✔️ | ✔️ | <span class="fa fa-solid fa-chalkboard" aria-hidden="true"></span> Fundamentos de la programación |
-| 1 Abril | ❌ | ✔️ | <span class="fa fa-solid fa-chalkboard" aria-hidden="true"></span> Fundamentos de la programación <br> <span class="fa fa-solid fa-hand-paper" aria-hidden="true"></span> Laboratorio 1 |
-| 5 Abril | ✔️ | ✔️ | <span class="fa fa-solid fa-chalkboard" aria-hidden="true"></span> Tipos de datos y variables |
-| 8 Abril | ❌ | ❌ | <span class="fa fa-solid fa-hand-paper" aria-hidden="true"></span> Laboratorio 2 |
+| 29 Marzo | ✔️ | ✔️ | 📖 Carta al estudiante <br> 👩🏻‍🏫 Fundamentos de la programación |
+| 1 Abril | ❌ | ✔️ | 👩🏻‍🏫 Fundamentos de la programación <br> 💻 Laboratorio 1 |
+| 5 Abril | ✔️ | ✔️ | 👐🏻 Tipos de datos y variables |
+| 8 Abril | ❌ | ❌ | 💻 Laboratorio 2 |
 | 12 Abril | | | 🏖️ Semana santa |
 | 15 Abril | | | 🏖️ Semana santa |
-| 19 Abril | ✔️ | ✔️| <span class="fa fa-solid fa-chalkboard" aria-hidden="true"></span> Entrada, salida, verificación y operadores |
-| 23 Abril | ❌ | ❌ | <span class="fa fa-solid fa-hand-paper" aria-hidden="true"></span> Laboratorio 3 |
-| 26 Abril | ✔️ | ✔️ | <span class="fa fa-solid fa-chalkboard" aria-hidden="true"></span> Flujos de control |
-| 30 Abril | ❌ | ❌ | <span class="fa fa-solid fa-hand-paper" aria-hidden="true"></span> Laboratorio 4 |
-| 3 Mayo | ✔️ | ✔️ | <span class="fa fa-solid fa-chalkboard" aria-hidden="true"></span> Flujos de control |
-| 6 Mayo | ❌ | ❌ | <span class="fa fa-solid fa-hand-paper" aria-hidden="true"></span> Laboratorio 4 |
+| 19 Abril | ✔️ | ✔️| 👐🏻 Entrada, salida, verificación y operadores |
+| 23 Abril | ❌ | ❌ | 💻 Laboratorio 3 |
+| 26 Abril | ✔️ | ✔️ | 👐🏻 Flujos de control |
+| 30 Abril | ❌ | ❌ | 💻 Laboratorio 4 |
+| 3 Mayo | ✔️ | ✔️ | 👐🏻 Flujos de control |
+| 6 Mayo | ❌ | ❌ | 💻 Laboratorio 4 |
