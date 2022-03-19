@@ -1,11 +1,11 @@
 # Banco de exámenes
 
 <div class="alert alert-danger" role="alert">
-  🔊 Los exámenes viejos sirven para práctica, pero no significa que el examen será igual o deberá seguir el mismo formato que los exámenes adjuntados.
+  <i class="fa fa fa-exclamation-triangle fa-inverse fa-lg"></i> Los exámenes viejos sirven para práctica, pero no significa que el examen será igual o deberá seguir el mismo formato que los exámenes adjuntados.
 </div>
 
 <div class="alert alert-danger" role="alert">
-  🔊 Para algunos examenes viene como ejemplo código y videos como posibles soluciones. Cada docente podrá evaluar distintos aspectos dentro del examen, por lo tanto sirve como referencía pero no como solución definitiva.
+  <i class="fa fa fa-exclamation-triangle fa-inverse fa-lg"></i> Para algunos examenes viene como ejemplo código y videos como posibles soluciones. Cada docente podrá evaluar distintos aspectos dentro del examen, por lo tanto sirve como referencía pero no como solución definitiva.
 </div>
 
 ## Examen 1
