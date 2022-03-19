@@ -6,15 +6,13 @@ Los exámenes viejos sirven para práctica, pero no significa que el examen ser�
 
 | Semestre | Grupo | # | Examen | Código | Video |
 | :------------- | :-------- | :-------- | :--------: | :--------: |  :--------: |
-| I 2019 | 11 | 1 | <a href="YOUTUBE"><span class="fa fa-solid fa-file-alt" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-file-code" aria-hidden="true"></span></a> | <a href="YOUTUBE"><span class="fa fa-solid fa-file-video" aria-hidden="true"></span></a> |
-| I 2019 | 12 | 1 | <a href="YOUTUBE"><span class="fa fa-solid fa-file-alt" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-file-code" aria-hidden="true"></span></a> | <a href="YOUTUBE"><span class="fa fa-solid fa-file-video" aria-hidden="true"></span></a> |
-| I 2020 | 9 | 1 | <a href="YOUTUBE"><span class="fa fa-solid fa-file-alt" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-file-code" aria-hidden="true"></span></a> | <a href="YOUTUBE"><span class="fa fa-solid fa-file-video" aria-hidden="true"></span></a> |
-| II 2020 | 12 | 1 | <a href="YOUTUBE"><span class="fa fa-solid fa-file-alt" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-file-code" aria-hidden="true"></span></a> | <a href="YOUTUBE"><span class="fa fa-solid fa-file-video" aria-hidden="true"></span></a> |
-| I 2021 | 11 | 1 | <a href="YOUTUBE"><span class="fa fa-solid fa-file-alt" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-file-code" aria-hidden="true"></span></a> | <a href="YOUTUBE"><span class="fa fa-solid fa-file-video" aria-hidden="true"></span></a> |
-| II 2021 | 15 | 1 | <a href="YOUTUBE"><span class="fa fa-solid fa-file-alt" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-file-code" aria-hidden="true"></span></a> | <a href="YOUTUBE"><span class="fa fa-solid fa-file-video" aria-hidden="true"></span></a> |
-| II 2021 | Catedra | 1 | <a href="YOUTUBE"><span class="fa fa-solid fa-file-alt" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-file-code" aria-hidden="true"></span></a> | <a href="YOUTUBE"><span class="fa fa-solid fa-file-video" aria-hidden="true"></span></a> |
-
-https://www.youtube.com/watch?v=pWYgTj1puEc&feature=youtu.be
+| I 2019 | 11 | 1 | <a href="./banco/examen1/pdf/CI0202%20II-2019%20G11%20-%20Examen%201.pdf"><span class="fa fa-solid fa-file-alt" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-file-code" aria-hidden="true"></span></a> |  |
+| I 2019 | 12 | 1 | <a href="./banco/examen1/pdf/CI0202%20II-2019%20G12%20-%20Examen%201.pdf"><span class="fa fa-solid fa-file-alt" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-file-code" aria-hidden="true"></span></a> | |
+| I 2020 | 9 | 1 | <a href="./banco/examen1/pdf/CI0202%20I-2020%20G9%20-%20Examen%201.pdf"><span class="fa fa-solid fa-file-alt" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-file-code" aria-hidden="true"></span></a> |  |
+| II 2020 | 12 | 1 | <a href="./banco/examen1/pdf/CI0202%20II-2020%20G12%20-%20Examen%201.pdf"><span class="fa fa-solid fa-file-alt" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-file-code" aria-hidden="true"></span></a> | |
+| I 2021 | 11 | 1 | <a href="./banco/examen1/pdf/CI0202%20I-2021%20G11%20-%20Examen%201.pdf"><span class="fa fa-solid fa-file-alt" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-file-code" aria-hidden="true"></span></a> | <a href="https://www.youtube.com/watch?v=pWYgTj1puEc"><span class="fa fa-solid fa-file-video" aria-hidden="true"></span></a> |
+| II 2021 | 15 | 1 | <a href="./banco/examen1/pdf/CI0202%20II-2021%20G15%20-%20Examen%201.pdf"><span class="fa fa-solid fa-file-alt" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-file-code" aria-hidden="true"></span></a> | |
+| II 2021 | Cátedra | 1 | <a href="./banco/examen1/pdf/CI0202%20II-2021%20Catedra%20-%20Examen%201.pdf"><span class="fa fa-solid fa-file-alt" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-file-code" aria-hidden="true"></span></a> |  |
 
 ## Examen 2
 
