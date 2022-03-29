@@ -43,14 +43,12 @@ A continuación, viene el detalle de lo que se va a realizar en las clases con s
 
 | Día | Presencialidad | Sincrónica | Temas |
 | :------------- | :-------- | :--------: | :-------- |
-| 29 Marzo | ✔️ | ✔️ | 📖 Carta al estudiante <br> 👩🏻‍🏫 Fundamentos de la programación |
-| 1 Abril | ❌ | ✔️ | 👩🏻‍🏫 Fundamentos de la programación <br> 💻 Laboratorio 1 |
-| 5 Abril | ✔️ | ✔️ | 👐🏻 Tipos de datos y variables |
-| 8 Abril | ❌ | ❌ | 💻 Laboratorio 2 |
+| 5 Abril | ❌ | ✔️ | 📖 Carta al estudiante <br> 👩🏻‍🏫 Fundamentos de la programación |
+| 8 Abril | ❌ | ✔️ | 👩🏻‍🏫 Fundamentos de la programación <br> 💻 Laboratorio 1 |
 | 12 Abril | | | 🏖️ Semana santa |
 | 15 Abril | | | 🏖️ Semana santa |
-| 19 Abril | ✔️ | ✔️| 👐🏻 Entrada, salida, verificación y operadores |
-| 23 Abril | ❌ | ❌ | 💻 Laboratorio 3 |
+| 19 Abril | ✔️ | ✔️ | 👐🏻 Tipos de datos y variables <br> 💻 Laboratorio 2 |
+| 23 Abril | ❌ | ✔️| 👐🏻 Entrada, salida, verificación y operadores <br> 💻 Laboratorio 3 |
 | 26 Abril | ✔️ | ✔️ | 👐🏻 Flujos de control |
 | 30 Abril | ❌ | ❌ | 💻 Laboratorio 4 |
 | 3 Mayo | ✔️ | ✔️ | 👐🏻 Flujos de control |
