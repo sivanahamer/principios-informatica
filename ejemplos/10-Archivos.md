@@ -98,8 +98,8 @@ José Piedra;B80627;100;0;100;100;100;100;100;100;100;100;100;100;80.0;75.0;56.0
 Entonces:
 
 - La primer fila indica que hay 12 laboratorios, 10 tareas y 3 exámenes
-- La segunda fila indica que los laboratorios valen 15\% de la evaluación, y las tareas valen 25\%
-- La tercer fila indica que el primer examen vale 20\%, así como el segundo y el tercero
+- La segunda fila indica que los laboratorios valen 15% de la evaluación, y las tareas valen 25%
+- La tercer fila indica que el primer examen vale 20%, así como el segundo y el tercero
 - La cuarta fila solo contiene los encabezados. Siempre vienen en el mismo orden: Nombre, Carné, Labs, Tareas, Exámenes
 - Y la quinta fila en adelante son todos los datos, en el mismo orden del encabezado: Nombre, Carné, 12 labs, 10 tareas y 3 exámenes
 

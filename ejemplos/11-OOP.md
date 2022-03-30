@@ -64,7 +64,7 @@ $$ y = m \cdot x + b $$
 - `imprimir`: Método que imprime las coordenadas del punto.
 - `obtner_x`: Método que retorna la coordenada x del punto.
 - `obtner_y`: Método que retorna la coordenada y del punto.
-- `obtener_distancia`: Recibe otro objeto Punto. Calcula y retorna la distancia entre ambos puntos. Si el punto actual es $$p_1$$ con coordenadas $$x_1$$ y $$y_1$$, y el punto que recibe es $p_2$ con coordenadas $$x_2$$ y $$y_2$$, la distancia (d) entre ambos puntos es:
+- `obtener_distancia`: Recibe otro objeto Punto. Calcula y retorna la distancia entre ambos puntos. Si el punto actual es $$p_1$$ con coordenadas $$x_1$$ y $$y_1$$, y el punto que recibe es $$p_2$$ con coordenadas $$x_2$$ y $$y_2$$, la distancia (d) entre ambos puntos es:
 
 $$ d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} $$
 

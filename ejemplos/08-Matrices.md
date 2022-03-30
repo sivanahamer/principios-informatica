@@ -22,7 +22,7 @@ Se imprimiría como:
 
 ## Total
 
-Cree una función llamada `suma_total` que recibe una matriz y retorna la suma total de la matriz.
+Cree una función llamada `sumar_total` que recibe una matriz y retorna la suma total de la matriz.
 
 **Ejemplo:**
 
@@ -38,9 +38,9 @@ Devuelve:
 78
 ```
 
-\section*{Total fila}
+## Total fila
 
-Cree una función llamada \lstinline{suma_total_fila} que recibe una matriz y retorna una lista con la suma total por fila.
+Cree una función llamada `sumar_total_fila` que recibe una matriz y retorna una lista con la suma total por fila.
 
 **Ejemplo:**
 
@@ -58,7 +58,7 @@ Devuelve:
 
 ## Total columna
 
-Cree una función llamada `suma_total_columna` que recibe una matriz y retorna una lista con la suma total por columna.
+Cree una función llamada `sumar_total_columna` que recibe una matriz y retorna una lista con la suma total por columna.
 
 **Ejemplo:**
 
