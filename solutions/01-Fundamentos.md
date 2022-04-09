@@ -76,8 +76,8 @@ else:
 
 <div class="alert alert-danger" role="alert">
   <i class="fa fa fa-exclamation-triangle fa-inverse fa-lg"></i> 
-  Cuando probamos, es bueno probar valores "límite", que podrían dar errores o ser distintos.
-  - Con números es común probar uno positivo, uno negativo, uno real y el cero.
-  - Con texto es común probar texto normal y uno vacío.
+  Cuando probamos, es bueno probar valores "límite", que podrían dar errores o ser distintos. <br/>
+  - Con números es común probar uno positivo, uno negativo, uno real y el cero.<br/>
+  - Con texto es común probar texto normal y uno vacío.<br/>
   También es bueno probar que pasa si al pedir un número se le da texto o viceversa.
 </div>
