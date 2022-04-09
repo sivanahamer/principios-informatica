@@ -138,5 +138,5 @@ mostrar (" El area del rectangulo es :" , A)
 ### Pruebas
 
 - ¿Qué pasa si se utiliza $$a=5$$ y $$b=3$$?
-- ¿Qué pasa si se utiliza $$a\le 0$? Haga las correcciones correspondientes.
-- ¿Qué pasa si se utiliza $$b\le 0$? Haga las correcciones correspondientes.
+- ¿Qué pasa si se utiliza $$a\le 0$$? Haga las correcciones correspondientes.
+- ¿Qué pasa si se utiliza $$b\le 0$$? Haga las correcciones correspondientes.
