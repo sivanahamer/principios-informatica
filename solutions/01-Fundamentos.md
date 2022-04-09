@@ -1,6 +1,34 @@
 # 💻 Fundamentos de la computación: Soluciones
 
-## Pseudocódigo: Pasear a un perro
+## Pseudocódigo: Cocinar palomitas 🍿
+
+### Algoritmo
+
+1. Quitar el plástico de la bolsas.
+2. Abrir el microondas.
+3. Meter la bolsa en el microondas.
+4. Cerrar el microondas.
+5. Poner de tiempo 3 minutos en el microondas.
+6. Iniciar el microondas.
+7. Esperar 3 minutos.
+8. Abrir el microondas.
+9. Sacar las palomitas del microondas.
+
+### Pseudocódigo
+
+```{bash}
+// Los tiempos son en segundos
+palomitas = Palomitas()
+microondas = Microondas()
+microondas.meter(palomitas, 180) // Abre, mete y cierra
+tiempoEspera = 0
+si tiempoEspera < 180:
+    tiempoEspera += 1
+    esperar(1)
+comida = microondas.sacar() // Abre, mete y cierra
+```
+
+## Pseudocódigo: Pasear a un perro 🐕
 
 ### Algoritmo
 
@@ -31,7 +59,7 @@ si clima_bonito:
         yo.cerrar_puerta()
 ```
 
-## Convertir a dólares
+## Convertir a dólares 💵
 
 ### Problema
 
@@ -81,3 +109,34 @@ else:
   - Con texto es común probar texto normal y uno vacío.<br/>
   También es bueno probar que pasa si al pedir un número se le da texto o viceversa.
 </div>
+
+## Cancha de futbol ⚽
+
+### Problema
+
+Calcular el área de una cancha de fútbol.
+
+### Analisis
+
+Vamos a calcular el área de un rectángulo con la fórmula:
+
+$$A = b ∗ a$$
+
+### Diseño (pseudocódigo)
+
+```{bash}
+# Pedimos la base y la altura
+mostrar (" Escriba la base del rectangulo : ")
+b = leer ()
+mostrar (" Escriba la altura del rectangulo :")
+a = leer ()
+# Calculamos el area
+A = b * a
+mostrar (" El area del rectangulo es :" , A)
+```
+
+### Pruebas
+
+- ¿Qué pasa si se utiliza $$a=5$$ y $$b=3$$?
+- ¿Qué pasa si se utiliza $$a\le 0$? Haga las correcciones correspondientes.
+- ¿Qué pasa si se utiliza $$b\le 0$? Haga las correcciones correspondientes.
