@@ -1,0 +1,26 @@
+Pasear al perro:
+
+Algoritmo:
+1. Revisar el clima para ver si se puede caminar (sin lluvia o mucho sol)
+2. Buscar el perro
+3. Buscar la correa, si no hay no se puede seguir
+4. Poner la correa al perro
+5. Alistar cosas que se ocupan (agua, zapatos y bolsitas)
+6. Buscar las llaves, si no hay no se puede seguir.
+7. Acercarnos a la puerta con el perro
+8. Abrir la puerta de la casa para salir
+9. Salir por la puerta de la casa
+10. Cerrar la puerta para iniciar el paseo
+
+Pseudocódigo:
+clima_bonito = revisar_clima()
+si clima_bonito:
+    hay_perro, hay_correa, hay_llaves = buscar_lo_minimo()
+    si hay_perro y hay_correa y hay_llaves:
+        llaves, agua, zapatos, bolsitas, correa, perro = alistar_cosas()
+        yo.poner(zapatos, agua, llaves, bolsitas)
+        perro.poner(correa) #Implica que sostengamos la cinta cosa de la correo
+        yo.ir_puerta()
+        yo.abrir_puerta(llaves)
+        yo.salir_casa()
+        yo.cerrar_puerta()

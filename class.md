@@ -2,9 +2,9 @@
 
 Debajo viene el cronograma preliminar de los temas que puede actualizarse durante el desarrollo del semestre. Cada enlace adjunta los materiales asociados.
 
-| Semanas | Tema | Videos | Presentación | Ejercicios |  Código |
+| Semanas | Tema | Videos | Presentación | Ejercicios | Soluciones |
 | :------------- | :-------- | :--------: | :--------: |  :--------: | :--------: |
-1 | Fundamentos de la programación |  | <a href=".\presentaciones\01-Fundamentos.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\01-Fundamentos"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> |  |
+1 | Fundamentos de la programación |  | <a href=".\presentaciones\01-Fundamentos.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\01-Fundamentos"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> | <a href=".\solutions\01-Fundamentos"><span class="fa fa-solid fa-code" aria-hidden="true"></span> |
 2 | Sistemas numéricos y representación de datos | <a href="https://youtu.be/VqKI2hnxvmg"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\02-Sistemas.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\02-Variables"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> |  |
 2 | Tipos de datos | <a href="https://youtu.be/7gcAhGDe1jk"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\03-Tipos-datos.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\02-Variables"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> |  |
 2 | Definición y utilización de variables | <a href="https://youtu.be/m1QMxY3Y6Hc"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\04-Variables.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\02-Variables"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> |  |
