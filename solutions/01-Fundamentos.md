@@ -68,7 +68,7 @@ Pasar una cantidad de colones a dolares.
 ### Analizar
 
 - El tipo de cambio de dolar a colon es: 675
-- dolar = colones/tipo_cambio
+- $$dolar = colones/tipo_cambio$$
 - Colones tiene que ser un positivo
 
 ### Diseñar (pseudocódigo)
