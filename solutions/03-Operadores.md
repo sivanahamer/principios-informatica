@@ -2,8 +2,4 @@
 
 ## Game over 🎮
 
-github.com//<repository>/blob/<branch_name>/README.md?plain=1
-
-## 
-
-github.com//sivanahamer/principios-informatica/blob/main/src/3.operadores/game_over.py?plain=1
+<script src="https://gist.github.com/sivanahamer/b9919f44913380730a9b6e6b62fb0ec4.js"></script>
