@@ -22,7 +22,7 @@
 
 ## Entrada válida 🎫
 
-<script src="https://gist.github.com/sivanahamer/e6da3378ad3e4deb2ea81999f9f2f022.js?file=entada.py"></script>
+<script src="https://gist.github.com/sivanahamer/e6da3378ad3e4deb2ea81999f9f2f022.js?file=entrada.py"></script>
 
 ## Promedio ➗
 
