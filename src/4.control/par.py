@@ -11,7 +11,6 @@ else:
 
 n = int(input("Numero: "))
 
-
 if (n % 2 == 0):
     tipo = "Es par"
 else:
