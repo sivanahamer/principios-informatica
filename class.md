@@ -51,3 +51,7 @@ A continuación, viene el detalle de lo que se va a realizar en las clases con s
 | 30 Abril | ❌ | ❌ | 💻 Laboratorio 4 |
 | 3 Mayo | ✔️ | ✔️ | 👐🏻 Flujos de control |
 | 6 Mayo | ❌ | ❌ | 💻 Laboratorio 4 |
+| 10 Mayo | ✔️ | ✔️ | 👐🏻 Funciones |
+| 13 Mayo | ❌ | ❌ | 💻 Laboratorio 5 |
+| 17 Mayo | ✔️ | ✔️ | 👐🏻 Funciones |
+| 20 Mayo | ❌ | ❌ | 💻 Laboratorio 6 |
