@@ -109,7 +109,7 @@ Cree un programa que convierta una temperatura, en Celsius o Fahrenheit, a su co
 
 ## Pura vida
 
-Escriba un programa que cada número sea divisible por 3 imprima `Pura` y cada número divisible por 5 imprima `Vida`.
+Es decir, que cuenta desde un número 1 hasta un $$n$$. Cada vez que cuenta un número que es divisible por 3 imprima `Pura` y cada número que es divisible por 5 imprima `Vida`. 
 
 ## Invertir un número
 
