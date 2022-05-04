@@ -10,19 +10,19 @@ Debajo viene el cronograma preliminar de los temas que puede actualizarse durant
 2 | Definición y utilización de variables | <a href="https://youtu.be/m1QMxY3Y6Hc"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\04-Variables.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\02-Variables"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> | <a href=".\solutions\02-Variables"><span class="fa fa-solid fa-code" aria-hidden="true"></span> |
 3 | Entrada y salida básica, verificación | <a href="https://youtu.be/AhGLqjz9d3o"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\05-IO.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\03-Operadores"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> | <a href=".\solutions\03-Operadores"><span class="fa fa-solid fa-code" aria-hidden="true"></span> |
 3 | Expresiones y operadores | <a href="https://youtu.be/n6Q-7lGKSPE"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\06-Operadores.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\03-Operadores"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> | <a href=".\solutions\03-Operadores"><span class="fa fa-solid fa-code" aria-hidden="true"></span> |
-4,5 | Instrucciones y estructuras de control | <a href="https://youtube.com/playlist?list=PLDrDoE_pnpz_qcSPRL3azlu6WdHzirv2N"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\07-Control.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> |  <a href=".\ejemplos\04-Control"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> |  <a href=".\solutions\04-Control"><span class="fa fa-solid fa-code" aria-hidden="true"></span>  |
-6,7 | Subrutinas | <a href="https://youtu.be/EIZ3qYfCdi8"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\08-Funciones.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\05-Funciones"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> |  |
-6,7 | Recursividad |
-8,9 | Colecciones lineales de datos |
-10 | Matrices |
-11 | Hileras o cadenas de caracteres (textos) |
-12 | Entrada y salida: archivos |
-13, 14 | Introducción a la programación orientada a objetos |
-15, 16 | Programación avanzada |
+5,6 | Instrucciones y estructuras de control | <a href="https://youtube.com/playlist?list=PLDrDoE_pnpz_qcSPRL3azlu6WdHzirv2N"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\07-Control.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> |  <a href=".\ejemplos\04-Control"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> |  <a href=".\solutions\04-Control"><span class="fa fa-solid fa-code" aria-hidden="true"></span>  |
+7,8 | Subrutinas | <a href="https://youtu.be/EIZ3qYfCdi8"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\08-Funciones.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\05-Funciones"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> |  |
+7,8 | Recursividad | <a href="https://youtube.com/playlist?list=PLDrDoE_pnpz_3_p0GR1JGzbeYTKivYe40"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\09-Recursividad.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\06-Recursividad"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> |  |
+9,10 | Colecciones lineales de datos |
+11 | Matrices |
+12 | Hileras o cadenas de caracteres (textos) |
+13 | Entrada y salida: archivos |
+14, 15 | Introducción a la programación orientada a objetos |
+16, 17 | Programación avanzada |
 
 <!-- 
 6,7 | Subrutinas |
-6,7 | Recursividad | <a href="https://youtube.com/playlist?list=PLDrDoE_pnpz_3_p0GR1JGzbeYTKivYe40"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\09-Recursividad.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\06-Recursividad"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> |  | 
+6,7 | Recursividad | 
 8,9 | Colecciones lineales de datos | <a href="https://youtube.com/playlist?list=PLDrDoE_pnpz_GFYiZPrn_BYSmVkbZ_8aJ"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\10-Listas.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\07-Listas"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> |  | 
 10 | Matrices | <a href="https://youtu.be/EvOByc4n-Es"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\11-Matrices.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\08-Matrices"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> |  |   
 11 | Hileras o cadenas de caracteres (textos) | <a href="https://youtu.be/6FxMvKEuAAA"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\12-Hileras.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\09-Hileras"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> |  | 
