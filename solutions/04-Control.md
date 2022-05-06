@@ -18,11 +18,11 @@
 
 ![Flujo tablas](../imgs/flujo/Flujo-Tablas.png)
 
-### For
+### While
 
 <script src="https://gist.github.com/sivanahamer/e6da3378ad3e4deb2ea81999f9f2f022.js?file=tablasv1.py"></script>
 
-### While
+### For
 
 <script src="https://gist.github.com/sivanahamer/e6da3378ad3e4deb2ea81999f9f2f022.js?file=tablasv2.py"></script>
 
