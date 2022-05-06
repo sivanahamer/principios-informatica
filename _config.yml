@@ -41,4 +41,4 @@ defaults:
 
 navbar-links:
   Clases: "class"
-  # Banco Examenes: "banco_examenes"
+  Banco Examenes: "banco_examenes"
