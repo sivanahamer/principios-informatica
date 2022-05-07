@@ -1,3 +1,3 @@
-# Solución: CI0202 I-2020 G9 - Examen 1
+# Soluciones Examenes 1
 
 <script src="https://gist.github.com/sivanahamer/3ed563c4393c35e6f2d4d6add67f465f.js?file=nasa.py"></script>
