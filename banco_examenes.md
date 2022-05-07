@@ -21,7 +21,3 @@
 | II 2021 | Cátedra | 1 | <a href="./banco/examen1/pdf/CI0202%20II-2021%20Catedra%20-%20Examen%201.pdf"><span class="fa fa-solid fa-file-alt" aria-hidden="true"></span></a> |
 
 [Las soluciones de algunos examenes se encuentran en la siguiente página.](./banco/examen1/solutions)
-<!-- 
-## Examen 2
-
-PENDIENTE -->
