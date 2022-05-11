@@ -6,15 +6,15 @@
 
 ## Dado 🎲
 
-<script src="https://gist.github.com/sivanahamer/770817d6c8d9ebf172188b13d440e173.js?file=dice.py"></script>
+<script src="https://gist.github.com/sivanahamer/770817d6c8d9ebf172188b13d440e173.js?file=dado.py"></script>
 
-## Entero válido 🔢✅
+## Obtener entero 🔢✅
 
-<script src="https://gist.github.com/sivanahamer/770817d6c8d9ebf172188b13d440e173.js?file=entero_valido.py"></script>
+<script src="https://gist.github.com/sivanahamer/770817d6c8d9ebf172188b13d440e173.js?file=obtener_entero.py"></script>
 
-## Flotante válido 🛥️✅
+## Obtener flotante 🛥️✅
 
-<script src="https://gist.github.com/sivanahamer/770817d6c8d9ebf172188b13d440e173.js?file=dice.py"></script>
+<script src="https://gist.github.com/sivanahamer/770817d6c8d9ebf172188b13d440e173.js?file=obtener_flotante.py"></script>
 
 <div class="alert alert-primary" role="alert">
 Como ejercicio extra, puede realizar una función para que se reciba solo booleanos válidos.
