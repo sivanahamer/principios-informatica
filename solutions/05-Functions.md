@@ -24,4 +24,4 @@ Como ejercicio extra, puede realizar una función para que se reciba solo boolea
 
 <script src="https://gist.github.com/sivanahamer/770817d6c8d9ebf172188b13d440e173.js?file=brujula.py"></script>
 
-![To be continued](https://static.wikia.nocookie.net/memes-pedia/images/0/09/Be2293573dbee0f0532dc5ea1b3f63544c6e05be_hq.jpg/revision/latest/scale-to-width-down/480?cb=20200124101224&path-prefix=es)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7uBqNgxAuBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
