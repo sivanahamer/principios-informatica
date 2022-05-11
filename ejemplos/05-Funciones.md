@@ -4,6 +4,10 @@
 
 Escriba una función que simule el tirar una moneda. La función deberá imprimir escudo o corona.
 
+## Dado
+
+Escriba una función que simule el tirar un dado. La función deberá imprimir la cantidad de caras resultantes.
+
 ## Seno cardinal
 
 Las funciones pueden utilizarse como funciones matemáticas. Recordemos nuestro famoso seno cardinal. Se puede definir de la siguiente forma:
