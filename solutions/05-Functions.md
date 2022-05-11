@@ -1,4 +1,4 @@
-# 🔁 Flujos de control: Soluciones
+# ↪ Funciones: Soluciones
 
 ## Moneda 🪙
 
