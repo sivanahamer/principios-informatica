@@ -10,7 +10,7 @@ Escriba una función que simule el tirar un dado. La función deberá imprimir l
 
 ## Seno cardinal
 
-Las funciones pueden utilizarse como funciones matemáticas. Recordemos nuestro famoso seno cardinal. Se puede definir de la siguiente forma:
+Se puede definir de la siguiente el seno cardinal de la siguiente forma:
 
 $$sinc(x) =
 \begin{cases}
@@ -19,7 +19,7 @@ $$sinc(x) =
 \end{cases}
 $$
 
-Escriba un programa que implemente la función seno_cardinal que recibe x.
+Escriba un programa que implemente la función `seno_cardinal` que recibe `x`.
 
 ## Sustitución polinomial
 
