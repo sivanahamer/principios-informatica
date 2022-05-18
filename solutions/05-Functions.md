@@ -36,4 +36,10 @@ Como ejercicio extra, puede realizar una función para que se reciba solo boolea
 
 <script src="https://gist.github.com/sivanahamer/770817d6c8d9ebf172188b13d440e173.js?file=brujula.py"></script>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7uBqNgxAuBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Calculadora de días 🗓️
+
+<script src="https://gist.github.com/sivanahamer/770817d6c8d9ebf172188b13d440e173.js?file=dias.py"></script>
+
+## Calculadora (paradigma funcional) 🧮
+
+<script src="https://gist.github.com/sivanahamer/770817d6c8d9ebf172188b13d440e173.js?file=calculadora.py"></script>
