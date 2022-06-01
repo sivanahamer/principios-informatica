@@ -97,12 +97,12 @@ def imprimir_reves4(l):
         resultado = f"{l[indice]} {resultado}" 
     return f"[{resultado}]"
 
-# longitud = int(input("Digite la longitud del arreglo: "))
+longitud = int(input("Digite la longitud del arreglo: "))
 
-# a = llenar_lista(longitud)
+a = llenar_lista(longitud)
 
-# imprimir_lista(a)
-# imprimir_lista2(a)
-# imprimir_reves(a)
-# imprimir_reves2(a)
-# imprimir_reves3(a)
+imprimir_lista(a)
+imprimir_lista2(a)
+imprimir_reves(a)
+imprimir_reves2(a)
+imprimir_reves3(a)
