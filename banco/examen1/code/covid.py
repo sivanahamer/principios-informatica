@@ -1,6 +1,3 @@
-from re import I
-
-
 def calcular_estado(ifr):
     if 0 <= ifr < 0.5:
         return "Leve"

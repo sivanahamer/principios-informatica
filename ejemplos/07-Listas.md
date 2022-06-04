@@ -45,6 +45,30 @@ El elemento más grande del arreglo
 es 50.
 ```
 
+## Ascendente
+
+Cree una función que llamada `verificar_ascendente` que verifica que todos revisa que para cada índice $$i, j$$ para un arreglo $$a$$ se debe cumplir que $$a[i] < a[j]$$, cuando $$i < j$$.
+
+**Ejemplo 1:**
+
+Para el arreglo
+
+```{python}
+a = [4, 10, 5]
+```
+
+El resultado de invocar la función da `False`.
+
+**Ejemplo 2:**
+
+Para el arreglo
+
+```{python}
+a = [10, 21, 22, 30]
+```
+
+El resultado de invocar la función da `True`.
+
 ## La Biblioteca de Alejandría
 
 En su búsqueda por dominar el mundo, la famosa empresa Didney compra el país de Egipto entero; con la intención de convertirlo en un parque de atracciones. Didney decide restaurar las ruinas de la biblioteca de Alejandría, la más majestuosa biblioteca del mundo en su época. En tiempos antiguos, esta biblioteca habría sido destruida por un incendio (y posteriormente por guerra). La empresa, en un acto de «bondad» histórica y cultural, ha decidido restaurar la biblioteca en lugar de convertirla en una montaña rusa.
