@@ -20,5 +20,6 @@
 | II 2021 | 15 | 1 | <a href="./banco/examen1/pdf/CI0202%20II-2021%20G15%20-%20Examen%201.pdf"><span class="fa fa-solid fa-file-alt" aria-hidden="true"></span></a> |
 | II 2021 | Cátedra | 1 | <a href="./banco/examen1/pdf/CI0202%20II-2021%20Catedra%20-%20Examen%201.pdf"><span class="fa fa-solid fa-file-alt" aria-hidden="true"></span></a> |
 | I 2022 | Cátedra | 1 | <a href="./banco/examen1/pdf/CI0202%20I-2022%20Catedra%20-%20Examen%201.pdf"><span class="fa fa-solid fa-file-alt" aria-hidden="true"></span></a> |
+| I 2022 | Cátedra reposición | 1 | <a href="./banco/examen1/pdf/CI0202%20I-2022%20Catedra%20-%20Examen%201-%20Reposición.pdf"><span class="fa fa-solid fa-file-alt" aria-hidden="true"></span></a> |
 
 [Las soluciones de algunos examenes se encuentran en la siguiente página.](./banco/examen1/solutions)
