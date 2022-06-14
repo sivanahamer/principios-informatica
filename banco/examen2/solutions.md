@@ -3,6 +3,8 @@
 
 ## CI0202 II-2020 G11 - Examen 2
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PSi2dz_uBKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <script src="https://gist.github.com/sivanahamer/66679eccdd688a04837f94970f4db90a.js?file=spotify.py"></script>
 
 ## CI0202 II-2020 G11 - Ampliación
