@@ -55,7 +55,7 @@ def imprimir_matriz_variable(matriz):
     # Imprime la matriz
     for fila in matriz:
         for elemento in fila:
-            print(f" {elemento:20}", end="")
+            print(f" {elemento:>{max_size}}", end="")
         print()
 
 def correr_tiendas():
@@ -66,7 +66,6 @@ def correr_tiendas():
     #Obtenemos los nombres de las tiendas y los trimestres
     tiendas = leer_lista("Tienda", n)
     trimestres = obtener_lista_etiqueta("Trimestre", m)
-    print(trimestres)
 
     #Obtenemos las matrices de ganancias y perdidas
     print("Ganacias")
