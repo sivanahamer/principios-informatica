@@ -170,7 +170,7 @@ En la maestría de Bioinformática le han solicitado que programe un simulador d
 - **Transcripción:** Conversión de ADN a ARN
 - **Traducción:** Conversión de ARN a una proteína
 
-El proceso de \textbf{transcripción} ocurre cuando una célula, llamada polimerasa, hace una copia del ADN en el núcleo de la célula en un formato llamado ARN. Haciendo la analogía a la programación con la que estamos familiarizados, esto es similar a cuando se compila el programa. La diferencia de ADN a ARN es una simplemente, la Tiamina (T) se cambia por el Uracilo (U). Si hacemos este cambio en la cadena de ADN:
+El proceso de **transcripción** ocurre cuando una célula, llamada polimerasa, hace una copia del ADN en el núcleo de la célula en un formato llamado ARN. Haciendo la analogía a la programación con la que estamos familiarizados, esto es similar a cuando se compila el programa. La diferencia de ADN a ARN es una simplemente, la Tiamina (T) se cambia por el Uracilo (U). Si hacemos este cambio en la cadena de ADN:
 
 ```{bash}
 GTGCATCTGACTCCTGAGGAGAAG
@@ -182,7 +182,7 @@ obtenemos el siguiente ARN:
 GUGCAUCUGACUCCUGAGGAGAAG
 ```
 
-El proceso de \textbf{traducción} convierte el ARN en una cadena de amino ácidos que conforman una proteína. Esto es realizado por una estructura llamada ribosoma. La traducción es muy diferente al proceso anterior. Este proceso toma grupos de 3 bases nitrogenadas, elije el amino ácido correspondiente a esas bases, y la "agrega" a la cadena de amino ácidos. Haciendo la analogía a la programación, esto es ejecutar el programa, cuando la computadora va interpretando las instrucciones que le escribimos como acciones.
+El proceso de **traducción** convierte el ARN en una cadena de amino ácidos que conforman una proteína. Esto es realizado por una estructura llamada ribosoma. La traducción es muy diferente al proceso anterior. Este proceso toma grupos de 3 bases nitrogenadas, elije el amino ácido correspondiente a esas bases, y la "agrega" a la cadena de amino ácidos. Haciendo la analogía a la programación, esto es ejecutar el programa, cuando la computadora va interpretando las instrucciones que le escribimos como acciones.
 
 La siguiente figura contiene todas las posibles triadas de bases y el amino ácido que les corresponde:
 
@@ -206,6 +206,21 @@ Finalmente, hay un par de reglas adicionales a este proceso:
 - Existen 3 secuencia que, en lugar de agregar un amino ácido a la proteína, termina el proceso de transcripción. Estas son las que en la tabla están codificadas como Stop.
 
 Implemente entonces un programa al que se le ingrese una cadena de ADN, revise que esta sea válida, realice sobre esta los procesos de transcripción y traducción, y que muestre la proteína ensamblada.
+
+**Ejemplo:**
+
+Para la cadena de ADN:
+
+```{bash}
+ATGGTGCATCTGTAAACTCCTGAGGAGAAG
+```
+
+Da:
+
+```{bash}
+ARN: AUGGUGCAUCUGUAAACUCCUGAGGAGAAG
+Amino acidos: MVH
+```
 
 ## Referencias
 
