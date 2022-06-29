@@ -16,7 +16,7 @@ Debajo viene el cronograma preliminar de los temas que puede actualizarse durant
 9,10 | Colecciones lineales de datos | <a href="https://youtube.com/playlist?list=PLDrDoE_pnpz_GFYiZPrn_BYSmVkbZ_8aJ"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\10-Listas.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\07-Listas"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> | <a href=".\solutions\07-Listas"><span class="fa fa-solid fa-code" aria-hidden="true"></span> |
 11 | Matrices | <a href="https://youtu.be/EvOByc4n-Es"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\11-Matrices.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\08-Matrices"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> | <a href=".\solutions\08-Matrices"><span class="fa fa-solid fa-code" aria-hidden="true"></span> |
 12 | Hileras o cadenas de caracteres (textos) | <a href="https://youtu.be/6FxMvKEuAAA"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\12-Hileras.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\09-Hileras"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> | <a href=".\solutions\09-Hileras"><span class="fa fa-solid fa-code" aria-hidden="true"></span> |
-13 | Entrada y salida: archivos | <a href="https://youtu.be/THacMHW7ioM"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\13-Archivos.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\10-Archivos"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> | <a href=".\solutions\10-Archivos"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> |
+13 | Entrada y salida: archivos | <a href="https://youtu.be/THacMHW7ioM"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\13-Archivos.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\10-Archivos"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> | <a href=".\solutions\10-Archivos"><span class="fa fa-solid fa-code" aria-hidden="true"></span> |
 14, 15 | Introducción a la programación orientada a objetos | <a href="https://youtu.be/l87iPvkxbFI"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\13-Archivos.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\14-OOP"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> |  |  
 16, 17 | Programación avanzada |
 
@@ -38,35 +38,35 @@ Debajo viene el cronograma preliminar de los temas que puede actualizarse durant
 
 A continuación, viene el detalle de lo que se va a realizar en las clases con su modalidad. Se irá actualizado y modificando con el avance del semestre. Todas las entregas con su detalle aparecen dentro de mediación.
 
-| Día | Presencialidad | Sincrónica | Temas |
-| :------------- | :-------- | :--------: | :-------- |
-| 5 Abril | ✔️ | ✔️ | 📖 Carta al estudiante <br> 👩🏻‍🏫 Fundamentos de la programación |
-| 8 Abril | ❌ | ✔️ | 👩🏻‍🏫 Fundamentos de la programación <br> 💻 Laboratorio 1 |
-| 12 Abril | | | 🏖️ Semana santa |
-| 15 Abril | | | 🏖️ Semana santa |
-| 19 Abril | ✔️ | ✔️ | 👐🏻 Tipos de datos y variables <br> 💻 Laboratorio 2 |
-| 23 Abril | ❌ | ✔️| 👐🏻 Entrada, salida, verificación y operadores <br> 💻 Laboratorio 3 |
-| 26 Abril | ✔️ | ✔️ | 👐🏻 Flujos de control |
-| 30 Abril | ❌ | ❌ | 💻 Laboratorio 4 |
-| 3 Mayo | ✔️ | ✔️ | 👐🏻 Flujos de control |
-| 6 Mayo | ❌ | ❌ | 💻 Laboratorio 4 |
-| 10 Mayo | ✔️ | ✔️ | 👐🏻 Funciones |
-| 13 Mayo | ❌ | ❌ | 💻 Laboratorio 5 |
-| 17 Mayo | ✔️ | ✔️ | 👐🏻 Funciones |
-| 20 Mayo | ❌ | ❌ | 💻 Laboratorio 6 |
-| 24 Mayo | ✔️ | ✔️ | 👐🏻 Examen viejo |
-| 27 Mayo | ✔️ | ❌ | 💻 Programar en clases |
-| 31 Mayo | ✔️ | ✔️ | 👐🏻 Listas |
-| 3 Junio | ❌ | ❌ | 💻 Laboratorio 7 |
-| 7 Junio | ✔️ | ✔️ | 👐🏻 Listas |
-| 10 Junio | ❌ | ❌ | 💻 Laboratorio 7 |
-| 14 Junio | ✔️ | ✔️ | 👐🏻 Matrices |
-| 17 Junio | ❌ | ❌ | 💻 Laboratorio 8 |
-| 21 Junio | ✔️ | ✔️ | 👐🏻 Hileras |
-| 24 Junio | ❌ | ❌ | 💻 Laboratorio 9 |
-| 28 Junio | ✔️ | ✔️ | 👐🏻 Archivos |
-| 1 Julio | ❌ | ❌ | 💻 Laboratorio 9 |
-| 5 Junio | ✔️ | ✔️ | 👐🏻 Programación orientada a objetos |
-| 8 Julio | ❌ | ❌ | 💻 Laboratorio 10 |
-| 12 Junio | ✔️ | ✔️ | 👐🏻 Programación orientada a objetos |
-| 15 Julio | ❌ | ❌ | 💻 Laboratorio 11 |
+| Día | Temas |
+| :------------- | :-------- |
+| 5 Abril | 📖 Carta al estudiante <br> 👩🏻‍🏫 Fundamentos de la programación |
+| 8 Abril | 👩🏻‍🏫 Fundamentos de la programación <br> 💻 Laboratorio 1 |
+| 12 Abril | 🏖️ Semana santa |
+| 15 Abril | 🏖️ Semana santa |
+| 19 Abril | 👐🏻 Tipos de datos y variables <br> 💻 Laboratorio 2 |
+| 23 Abril | 👐🏻 Entrada, salida, verificación y operadores <br> 💻 Laboratorio 3 |
+| 26 Abril | 👐🏻 Flujos de control |
+| 30 Abril | 💻 Laboratorio 4 |
+| 3 Mayo | 👐🏻 Flujos de control |
+| 6 Mayo | 💻 Laboratorio 4 |
+| 10 Mayo | 👐🏻 Funciones |
+| 13 Mayo | 💻 Laboratorio 5 |
+| 17 Mayo | 👐🏻 Funciones |
+| 20 Mayo | 💻 Laboratorio 6 |
+| 24 Mayo | 👐🏻 Examen viejo |
+| 27 Mayo | 💻 Programar en clases |
+| 31 Mayo | 👐🏻 Listas |
+| 3 Junio | 💻 Laboratorio 7 |
+| 7 Junio | 👐🏻 Listas |
+| 10 Junio | 💻 Laboratorio 7 |
+| 14 Junio | 👐🏻 Matrices |
+| 17 Junio | 💻 Laboratorio 8 |
+| 21 Junio | 👐🏻 Hileras |
+| 24 Junio | 💻 Laboratorio 9 |
+| 28 Junio | 👐🏻 Archivos |
+| 1 Julio | 💻 Laboratorio 9 |
+| 5 Junio | 👐🏻 Programación orientada a objetos |
+| 8 Julio | 💻 Laboratorio 10 |
+| 12 Junio | 👐🏻 Programación orientada a objetos |
+| 15 Julio | 💻 Laboratorio 11 |
