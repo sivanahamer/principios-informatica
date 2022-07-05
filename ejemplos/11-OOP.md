@@ -1,5 +1,21 @@
 # 🌌 Programacion orientada a objetos
 
+## Clase Perro
+
+**Descripción:** La clase encarga de guardar información acerca de un perro.
+
+**Atributos:** 
+
+- `raza`: La raza del perro
+- `edad`: La edad del perro
+- `color`: El color del perro
+
+**Métodos:**
+
+- `constructor`: Método constructor del perro. Recibe e inicializa los atributos.
+- `ladrar`: Método que imprime el resultado de un perro que ladra.
+- `calcular_edad_humano`: Obtiene la edad del perro en humano. Esto es la edad del perro multiplicado por 7.
+
 ## Clase Círculo
 
 **Descripción:** La clase encarga de guardar información acerca de un círculo.
