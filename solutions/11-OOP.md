@@ -1,4 +1,4 @@
-# 🌌 Programacion orientada a objetos
+# 🌌 Programacion orientada a objetos: Soluciones
 
 ## Clase Perro 🐶
 
