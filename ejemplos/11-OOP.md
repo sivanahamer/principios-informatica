@@ -54,9 +54,9 @@
 - `tirar`: Obtiene el resultado de tirar un dado. Para simular tirar un dado, vamos a usar `random.random()` (se ocupa importar la bibloteca `math`). Esto saca un número flotante al azar ($$a$$) cuyo rango es $$0\le a<1$$. Si uno multiplica el número al azar por la cantidad de caras ($$c$$) eso nos va a dar un número flotante que ronda entre rango es $$0\le a<c$$. Para convertir el número flotante a entero, vamos a _castear_ el número con `(int)`. _Castear_ de un flotante a un entero le quita los decimales al número. Por lo tanto, eso nos va a dar un número $$0\le a\le c-1$$. Por último, como los dados tienen números enteros entre $$1$$ y $$c$$, se le debe sumar $$1$$ al resultado.
 - `imprimir`: Imprime información acerca del dado.
 
-## Clase EcuacionesLineares
+## Clase EcuacionLineal
 
-**Descripción:** La clase encarga de guardar información acerca de ecuaciones lineares.
+**Descripción:** La clase encarga de guardar información acerca de ecuaciones lineales.
 
 **Atributos:** Guarda la pendiente (m) y la intersección con el eje Y (b).
 
@@ -78,8 +78,8 @@ $$ y = m \cdot x + b $$
 
 - `constructor`: Método constructor del punto.
 - `imprimir`: Método que imprime las coordenadas del punto.
-- `obtner_x`: Método que retorna la coordenada x del punto.
-- `obtner_y`: Método que retorna la coordenada y del punto.
+- `obtener_x`: Método que retorna la coordenada x del punto.
+- `obtener_y`: Método que retorna la coordenada y del punto.
 - `obtener_distancia`: Recibe otro objeto Punto. Calcula y retorna la distancia entre ambos puntos. Si el punto actual es $$p_1$$ con coordenadas $$x_1$$ y $$y_1$$, y el punto que recibe es $$p_2$$ con coordenadas $$x_2$$ y $$y_2$$, la distancia (d) entre ambos puntos es:
 
 $$ d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} $$
