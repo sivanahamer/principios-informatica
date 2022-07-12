@@ -17,8 +17,7 @@ Debajo viene el cronograma preliminar de los temas que puede actualizarse durant
 11 | Matrices | <a href="https://youtu.be/EvOByc4n-Es"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\11-Matrices.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\08-Matrices"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> | <a href=".\solutions\08-Matrices"><span class="fa fa-solid fa-code" aria-hidden="true"></span> |
 12 | Hileras o cadenas de caracteres (textos) | <a href="https://youtu.be/6FxMvKEuAAA"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\12-Hileras.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\09-Hileras"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> | <a href=".\solutions\09-Hileras"><span class="fa fa-solid fa-code" aria-hidden="true"></span> |
 13 | Entrada y salida: archivos | <a href="https://youtu.be/THacMHW7ioM"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\13-Archivos.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\10-Archivos"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> | <a href=".\solutions\10-Archivos"><span class="fa fa-solid fa-code" aria-hidden="true"></span> |
-14, 15 | Introducción a la programación orientada a objetos | <a href="https://youtu.be/l87iPvkxbFI"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\13-Archivos.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\11-OOP"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> |  <a href=".\solutions\11-OOP"><span class="fa fa-solid fa-code" aria-hidden="true"></span> |  
-16, 17 | Programación avanzada |
+14,15,16 | Introducción a la programación orientada a objetos | <a href="https://youtu.be/l87iPvkxbFI"><span class="fa fa-solid fa-video" aria-hidden="true"></span> | <a href=".\presentaciones\13-Archivos.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span> | <a href=".\ejemplos\11-OOP"><span class="fa fa-solid fa-pen" aria-hidden="true"></span> |  <a href=".\solutions\11-OOP"><span class="fa fa-solid fa-code" aria-hidden="true"></span> |  
 
 <!-- 
 6,7 | Subrutinas |
@@ -66,7 +65,9 @@ A continuación, viene el detalle de lo que se va a realizar en las clases con s
 | 24 Junio | 💻 Laboratorio 9 |
 | 28 Junio | 👐🏻 Archivos |
 | 1 Julio | 💻 Laboratorio 9 |
-| 5 Junio | 👐🏻 Programación orientada a objetos |
+| 5 Julio | 👐🏻 Programación orientada a objetos |
 | 8 Julio | 💻 Laboratorio 10 |
-| 12 Junio | 👐🏻 Programación orientada a objetos |
+| 12 Julio | 👐🏻 Programación orientada a objetos |
 | 15 Julio | 💻 Laboratorio 11 |
+| 19 Julio | 👐🏻 Práctica de exámen |
+| 22 Julio | 👐🏻 Sesión de preguntas de exámen final |
