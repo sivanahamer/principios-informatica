@@ -27,3 +27,11 @@
 ## Clase RectánguloPunto ⏹️⏺️⏹️
 
 <script src="https://gist.github.com/sivanahamer/77bb52dbb68a04e04f2e6c2fee7ddbb0.js?file=rectangulo_punto.py"></script>
+
+## Calculadora 🖩
+
+<script src="https://gist.github.com/sivanahamer/77bb52dbb68a04e04f2e6c2fee7ddbb0.js?file=calculadora.py"></script>
+
+# Hongos 🍄
+
+<script src="https://gist.github.com/sivanahamer/77bb52dbb68a04e04f2e6c2fee7ddbb0.js?file=hongos.py"></script>
