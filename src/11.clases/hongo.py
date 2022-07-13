@@ -1,3 +1,10 @@
+from distutils.util import strtobool
+
+COLUMNA_FORMA = 0
+COLUMNA_ALTURA = 1
+COLUMNA_COLOR = 2
+COLUMNA_ANILLOS = 3
+
 class Hongo:
     '''
     Una clase que guarda caracteristicas de Hongos
@@ -46,6 +53,28 @@ class Biologo:
     def __init__(self):
         self.hongos = []
 
+    def leer_hongos(self, ruta_archivo):
+        '''Lee de un archivo los hongos'''
+
+        #Obtiene de un archivo el texto
+        archivo = open(ruta_archivo, "r")
+        texto = archivo.read()
+
+        #Itera sobre las lineas que contienen hongos
+        for linea in texto.split("\n")[1:]:
+            #Separa aqui los elementos del hongo
+            elementos = linea.split(",")
+            #Verifica que si hay los 4 espacios que se esperan del hongo
+            if len(elementos) == 4:
+                #Crea un hongo y lo agrega a la lista
+                hongo = Hongo(elementos[COLUMNA_COLOR], elementos[COLUMNA_ANILLOS], elementos[COLUMNA_ALTURA], elementos[COLUMNA_FORMA])
+                self.hongos.append(hongo)
+
+                #Imprime el hongoy
+                hongo.imprimir()
+
+        archivo.close()
+
     def obtener_hongos(self):
         '''
         Corre el codigo del Biologo
@@ -88,12 +117,30 @@ class Biologo:
             #Determinamos el arreglo para la informacion
             cantidad_hongos[indice_especie] += 1
             if hongo.verificar_venenoso():
-                cantidad_venenosos[indice_especie] += 1
-                
+                cantidad_venenosos[indice_especie] += 1       
+
+        #Imprimir resultados con for
         for indice in range(len(especies)):
             print(f"Hongos {especies[indice]} encontrados: {cantidad_hongos[indice]}")
             print(f"Hongos {especies[indice]} venenosos: {cantidad_venenosos[indice]}")
 
+        #Imprime resultados con while
+        # indice = 0
+        # while indice < len(especies):
+        #     print(f"Hongos {especies[indice]} encontrados: {cantidad_hongos[indice]}")
+        #     print(f"Hongos {especies[indice]} venenosos: {cantidad_venenosos[indice]}")  
+        #     indice += 1 
+
+
 biologo = Biologo()
-biologo.obtener_hongos()
+
+#Determinar el metodo a invocar para obtener datos
+es_archivo = strtobool(input("¿Lectura de un archivo (y/n)? "))
+if es_archivo:
+    # ruta = input("Digite la ruta al archivo: ")
+    ruta = "./data/hongos.csv"
+    biologo.leer_hongos(ruta)
+else:
+    biologo.obtener_hongos()
+
 biologo.calcular_cantidad_especie()
