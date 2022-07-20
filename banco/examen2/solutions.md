@@ -20,7 +20,10 @@
 
 <script src="https://gist.github.com/sivanahamer/66679eccdd688a04837f94970f4db90a.js?file=oijB.py"></script>
 
-
 ## CI0202 II-2021 Cátedra - Examen 2
 
 <script src="https://gist.github.com/sivanahamer/66679eccdd688a04837f94970f4db90a.js?file=sismos.py"></script>
+
+## CI0202 II-2021 Cátedra Reposición - Examen 2
+
+<script src="https://gist.github.com/sivanahamer/66679eccdd688a04837f94970f4db90a.js?file=abejas.py"></script>
