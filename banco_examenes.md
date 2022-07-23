@@ -43,6 +43,6 @@
 | II 2021 | Cátedra | 2 | <a href="./banco/examen2/pdf/CI0202%20II-2021%20-%20Examen%202.zip"><span class="fa fa-solid fa-file-alt" aria-hidden="true"></span></a> |
 | II 2021 | Cátedra reposición | 2 | <a href="./banco/examen2/pdf/CI0202%20II-2021%20-%20Examen%202%20%20(Reposición).zip"><span class="fa fa-solid fa-file-alt" aria-hidden="true"></span></a> |
 | II 2021 | Cátedra | Ampliación | <a href="./banco/examen2/pdf/CI0202%20II-2021%20-%20Ampliación.pdf"><span class="fa fa-solid fa-file-alt" aria-hidden="true"></span></a> |
-
+| I 2022 | Cátedra | 2 | <a href="./banco/examen2/pdf/CI0202%20I-2022%20Catedra%20-%20Examen%202.pdf"><span class="fa fa-solid fa-file-alt" aria-hidden="true"></span></a> |
 
 [Las soluciones de algunos examenes se encuentran en la siguiente página.](./banco/examen2/solutions)
